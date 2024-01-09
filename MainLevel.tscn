@@ -1,9 +1,22 @@
-[gd_scene format=3 uid="uid://4trjqanvi5nj"]
+[gd_scene load_steps=3 format=3 uid="uid://4trjqanvi5nj"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hr1lv"]
+albedo_color = Color(0.415686, 0.988235, 0.929412, 1)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_rjtac"]
+albedo_color = Color(0.415686, 0.988235, 0.929412, 1)
 
 [node name="Node3D" type="Node3D"]
 
 [node name="CSGCombiner3D" type="CSGCombiner3D" parent="."]
 
 [node name="CSGBox3D" type="CSGBox3D" parent="CSGCombiner3D"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -46.2715, -90.4391, 68.9457)
-size = Vector3(532.06, 1, 473.169)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0484123, 21.8863, 81.814)
+size = Vector3(532.06, 54.1978, 473.169)
+material = SubResource("StandardMaterial3D_hr1lv")
+
+[node name="CSGBox3D" type="CSGBox3D" parent="CSGCombiner3D/CSGBox3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.64746, 11.5178, -4.41158)
+operation = 2
+size = Vector3(435.066, 57.1985, 387.714)
+material = SubResource("StandardMaterial3D_rjtac")
