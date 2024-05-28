@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GunGunRun/GunGunRun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap",
+				"E:/GunGunRun/GunGunRun/Content/Assets/Map/Building_13_Mat.uasset",
+				"E:/GunGunRun/GunGunRun/Content/Assets/Map/Building_2_Mat.uasset",
+				"E:/GunGunRun/GunGunRun/Content/Assets/Map/Concrete_Mat.uasset",
+				"E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_turn.uasset",
+				"E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2.uasset",
 				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap",
 				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/Metal_cabinet_1_n.uasset",
 				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/Metal_cabinet_2.uasset",
@@ -194,8 +201,7 @@
 				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Ventilation_3.uasset",
 				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/Asphalt_1-4_Mat.uasset",
 				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/Building_7_Mat.uasset",
-				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/Building_1_Mat.uasset",
-				"E:/GunGunRun/GunGunRun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/UnrealEngineProjects/GunGunRun/GunGunRun/Content/Assets/Map/Building_1_Mat.uasset"
 			]
 		}
 	]
