@@ -1525,3 +1525,958 @@ Are you sure?
 [2024.06.04-18.25.33:669][898]AssetCheck: /Game/Assets/Map/Metal_cabinet_2_Mat Validating asset
 [2024.06.04-18.25.33:669][898]LogContentValidation: Display: Validating asset /Game/Assets/Map/Metal_cabinet_1_Mat.Metal_cabinet_1_Mat
 [2024.06.04-18.25.33:669][898]AssetCheck: /Game/Assets/Map/Metal_cabinet_1_Mat Validating asset
+[2024.06.04-18.26.16:128][729]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Wall_corner_1.IndustrialHorror_PS_like_Wall_corner_1
+[2024.06.04-18.26.16:128][729]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Wall_corner_1) ...
+[2024.06.04-18.26.16:655][729]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.06.04-18.26.16:688][729]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.06.04-18.26.20:663][914]LogSlate: Window 'IndustrialHorror_PS_like_Wall_corner_1' being destroyed
+[2024.06.04-18.26.20:668][914]LogSlate: Window 'IndustrialHorror_PS_like_Wall_corner_1' being destroyed
+[2024.06.04-18.26.20:813][914]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.26.20:813][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.26.20:830][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.04-18.26.21:744][981]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Wall_corner_2.IndustrialHorror_PS_like_Wall_corner_2
+[2024.06.04-18.26.21:744][981]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Wall_corner_2) ...
+[2024.06.04-18.26.22:935][  7]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Wall_corner_3.IndustrialHorror_PS_like_Wall_corner_3
+[2024.06.04-18.26.22:935][  7]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Wall_corner_3) ...
+[2024.06.04-18.26.24:261][ 50]LogSlate: Window 'IndustrialHorror_PS_like_Wall_corner_3' being destroyed
+[2024.06.04-18.26.24:267][ 50]LogSlate: Window 'IndustrialHorror_PS_like_Wall_corner_3' being destroyed
+[2024.06.04-18.26.24:386][ 50]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.26.24:386][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.26.24:808][ 50]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.26.24:808][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.26.24:823][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.26.25:553][103]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Wall_column.IndustrialHorror_PS_like_Wall_column
+[2024.06.04-18.26.25:553][103]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Wall_column) ...
+[2024.06.04-18.26.25:553][103]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Wall_column (Required Memory Estimate: 0.048539 MB)...
+[2024.06.04-18.26.25:555][103]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Wall_column.IndustrialHorror_PS_like_Wall_column
+[2024.06.04-18.26.30:592][310]LogSlate: Window 'IndustrialHorror_PS_like_Wall_column' being destroyed
+[2024.06.04-18.26.30:598][310]LogSlate: Window 'IndustrialHorror_PS_like_Wall_column' being destroyed
+[2024.06.04-18.26.30:841][310]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.26.30:841][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.26.30:856][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.04-18.26.36:083][691]LogContentBrowser: Deferred new asset file creation: Liquid_reservoir_2_Mat
+[2024.06.04-18.26.36:084][691]LogTexture: Display: Building textures: /Game/Assets/Map/Liquid_reservoir_2.Liquid_reservoir_2 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.06.04-18.26.36:132][691]LogContentBrowser: Creating deferred item: Liquid_reservoir_2_Mat
+[2024.06.04-18.26.36:212][692]LogContentBrowser: Renaming the item being created (Deferred Item: Liquid_reservoir_2_Mat).
+[2024.06.04-18.26.37:221][774]LogContentBrowser: Attempting asset rename: Liquid_reservoir_2_Mat -> Liquid_reservoir_2_Mat
+[2024.06.04-18.26.37:238][774]LogContentBrowser: End creating deferred item Liquid_reservoir_2_Mat
+[2024.06.04-18.26.38:511][873]LogContentBrowser: Deferred new asset file creation: Liquid_reservoir_1_Mat
+[2024.06.04-18.26.38:513][873]LogTexture: Display: Building textures: /Game/Assets/Map/Liquid_reservoir_1.Liquid_reservoir_1 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.06.04-18.26.38:529][873]LogContentBrowser: Creating deferred item: Liquid_reservoir_1_Mat
+[2024.06.04-18.26.38:544][874]LogContentBrowser: Renaming the item being created (Deferred Item: Liquid_reservoir_1_Mat).
+[2024.06.04-18.26.39:843][988]LogContentBrowser: Attempting asset rename: Liquid_reservoir_1_Mat -> Liquid_reservoir_1_Mat
+[2024.06.04-18.26.39:861][988]LogContentBrowser: End creating deferred item Liquid_reservoir_1_Mat
+[2024.06.04-18.26.40:659][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.04-18.26.42:223][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.26.43:658][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.04-18.26.51:712][115]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.26.51:716][115]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Liquid_reservoir_1_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.26.51:716][115]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.26.51:814][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.04-18.26.52:691][115]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.26.52:699][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.26.52:775][115]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Liquid_reservoir_3] ([1] browsable assets)...
+[2024.06.04-18.26.52:775][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Liquid_reservoir_3]
+[2024.06.04-18.26.52:775][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Liquid_reservoir_3" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_3.uasset" SILENT=true
+[2024.06.04-18.26.52:788][115]LogSavePackage: Moving output files for package: /Game/Assets/Map/Liquid_reservoir_3
+[2024.06.04-18.26.52:790][115]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Liquid_reservoir_3CAE97B5A4333AF91A29C66A5D35356A6.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_3.uasset'
+[2024.06.04-18.26.52:816][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.166 ms (total: 34.8 sec)
+[2024.06.04-18.26.52:907][115]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.26.52:907][115]LogContentValidation: Enabled validators:
+[2024.06.04-18.26.52:907][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.26.52:907][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.26.52:907][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.26.52:907][115]LogContentValidation: Display: Validating asset /Game/Assets/Map/Liquid_reservoir_3.Liquid_reservoir_3
+[2024.06.04-18.26.52:907][115]AssetCheck: /Game/Assets/Map/Liquid_reservoir_3 Validating asset
+[2024.06.04-18.26.54:624][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.27.02:351][228]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.27.02:355][228]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Liquid_reservoir_2_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.27.02:355][228]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.27.02:452][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.04-18.27.03:806][228]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.27.03:814][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.27.03:872][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Liquid_reservoir_4] ([1] browsable assets)...
+[2024.06.04-18.27.03:872][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Liquid_reservoir_4]
+[2024.06.04-18.27.03:872][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Liquid_reservoir_4" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_4.uasset" SILENT=true
+[2024.06.04-18.27.03:890][228]LogSavePackage: Moving output files for package: /Game/Assets/Map/Liquid_reservoir_4
+[2024.06.04-18.27.03:891][228]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Liquid_reservoir_48ABEF0B14B77ADFAD170F7A0450D1CAD.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_4.uasset'
+[2024.06.04-18.27.03:911][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.259 ms (total: 34.9 sec)
+[2024.06.04-18.27.03:987][228]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.27.03:987][228]LogContentValidation: Enabled validators:
+[2024.06.04-18.27.03:987][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.27.03:987][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.27.03:987][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.27.03:987][228]LogContentValidation: Display: Validating asset /Game/Assets/Map/Liquid_reservoir_4.Liquid_reservoir_4
+[2024.06.04-18.27.03:987][228]AssetCheck: /Game/Assets/Map/Liquid_reservoir_4 Validating asset
+[2024.06.04-18.27.08:462][554]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3.IndustrialHorror_PS_like_Ventilation_3
+[2024.06.04-18.27.08:462][554]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3) ...
+[2024.06.04-18.27.08:462][554]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Ventilation_3 (Required Memory Estimate: 0.188709 MB)...
+[2024.06.04-18.27.08:467][554]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3.IndustrialHorror_PS_like_Ventilation_3
+[2024.06.04-18.27.14:590][849]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_3' being destroyed
+[2024.06.04-18.27.14:595][849]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_3' being destroyed
+[2024.06.04-18.27.14:723][849]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.27.14:723][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.27.14:738][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.04-18.27.20:122][205]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.IndustrialHorror_PS_like_Ventilation_2
+[2024.06.04-18.27.20:122][205]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2) ...
+[2024.06.04-18.27.20:123][205]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Ventilation_2 (Required Memory Estimate: 0.241394 MB)...
+[2024.06.04-18.27.20:127][205]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.IndustrialHorror_PS_like_Ventilation_2
+[2024.06.04-18.27.26:945][534]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_2' being destroyed
+[2024.06.04-18.27.26:950][534]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_2' being destroyed
+[2024.06.04-18.27.27:080][534]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.27.27:081][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.27.27:095][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.04-18.27.28:689][639]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1.IndustrialHorror_PS_like_Ventilation_1
+[2024.06.04-18.27.28:689][639]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1) ...
+[2024.06.04-18.27.39:198][448]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1) ...
+[2024.06.04-18.27.41:432][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.27.41:498][567]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1] ([1] browsable assets)...
+[2024.06.04-18.27.41:581][567]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1.IndustrialHorror_PS_like_Ventilation_1]
+[2024.06.04-18.27.41:581][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1]
+[2024.06.04-18.27.41:581][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Ventilation_1.uasset" SILENT=true
+[2024.06.04-18.27.41:826][567]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1
+[2024.06.04-18.27.41:834][567]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_Ventila312E09DD4FBD26620E80FF891E7D719E.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Ventilation_1.uasset'
+[2024.06.04-18.27.41:854][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 421.670 ms (total: 35.3 sec)
+[2024.06.04-18.27.41:910][567]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.27.41:910][567]LogContentValidation: Enabled validators:
+[2024.06.04-18.27.41:910][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.27.41:910][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.27.41:910][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.27.41:910][567]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1.IndustrialHorror_PS_like_Ventilation_1
+[2024.06.04-18.27.41:910][567]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_1 Validating asset
+[2024.06.04-18.27.43:611][655]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.IndustrialHorror_PS_like_Ventilation_2
+[2024.06.04-18.27.52:703][423]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2) ...
+[2024.06.04-18.27.54:307][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.27.54:360][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2] ([1] browsable assets)...
+[2024.06.04-18.27.54:444][507]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.IndustrialHorror_PS_like_Ventilation_2]
+[2024.06.04-18.27.54:444][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2]
+[2024.06.04-18.27.54:444][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.uasset" SILENT=true
+[2024.06.04-18.27.54:686][507]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2
+[2024.06.04-18.27.54:693][507]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_VentilaFD3CE4B944DD4ACF37B9088EAA798FD1.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.uasset'
+[2024.06.04-18.27.54:717][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 410.964 ms (total: 35.7 sec)
+[2024.06.04-18.27.54:780][507]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.27.54:780][507]LogContentValidation: Enabled validators:
+[2024.06.04-18.27.54:780][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.27.54:780][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.27.54:780][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.27.54:780][507]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2.IndustrialHorror_PS_like_Ventilation_2
+[2024.06.04-18.27.54:780][507]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2 Validating asset
+[2024.06.04-18.27.57:604][650]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3.IndustrialHorror_PS_like_Ventilation_3
+[2024.06.04-18.28.17:506][167]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_3' being destroyed
+[2024.06.04-18.28.17:511][167]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_3' being destroyed
+[2024.06.04-18.28.17:641][167]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.17:641][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.17:773][167]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.17:774][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.17:905][167]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.17:905][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.18:050][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.06.04-18.28.19:139][242]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2_blades.IndustrialHorror_PS_like_Ventilation_2_blades
+[2024.06.04-18.28.19:139][242]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2_blades) ...
+[2024.06.04-18.28.19:139][242]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Ventilation_2_blades (Required Memory Estimate: 0.130637 MB)...
+[2024.06.04-18.28.19:145][242]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_2_blades.IndustrialHorror_PS_like_Ventilation_2_blades
+[2024.06.04-18.28.21:708][257]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3_blades.IndustrialHorror_PS_like_Ventilation_3_blades
+[2024.06.04-18.28.21:708][257]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3_blades) ...
+[2024.06.04-18.28.21:708][257]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Ventilation_3_blades (Required Memory Estimate: 0.130637 MB)...
+[2024.06.04-18.28.21:713][257]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Ventilation_3_blades.IndustrialHorror_PS_like_Ventilation_3_blades
+[2024.06.04-18.28.28:665][583]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_3_blades' being destroyed
+[2024.06.04-18.28.28:671][583]LogSlate: Window 'IndustrialHorror_PS_like_Ventilation_3_blades' being destroyed
+[2024.06.04-18.28.28:793][583]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.28:793][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.28:924][583]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.28:924][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.28:940][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.04-18.28.30:241][666]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Road_turn_2 (Required Memory Estimate: 0.271428 MB)...
+[2024.06.04-18.28.30:241][666]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_turn_2.IndustrialHorror_PS_like_Road_turn_2
+[2024.06.04-18.28.30:242][666]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Road_turn_2) ...
+[2024.06.04-18.28.30:244][666]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Road_turn_2.IndustrialHorror_PS_like_Road_turn_2
+[2024.06.04-18.28.32:830][768]LogSlate: Window 'IndustrialHorror_PS_like_Road_turn_2' being destroyed
+[2024.06.04-18.28.32:835][768]LogSlate: Window 'IndustrialHorror_PS_like_Road_turn_2' being destroyed
+[2024.06.04-18.28.33:059][768]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.33:059][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.33:074][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.28.34:233][849]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.04-18.28.34:233][849]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Roadblock) ...
+[2024.06.04-18.28.36:499][917]LogSlate: Window 'IndustrialHorror_PS_like_Roadblock' being destroyed
+[2024.06.04-18.28.36:505][917]LogSlate: Window 'IndustrialHorror_PS_like_Roadblock' being destroyed
+[2024.06.04-18.28.36:770][917]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.36:770][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.36:785][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.28.38:053][  1]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_vertical_turn (Required Memory Estimate: 0.114222 MB)...
+[2024.06.04-18.28.38:054][  1]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_turn.IndustrialHorror_PS_like_Pipes_vertical_turn
+[2024.06.04-18.28.38:054][  1]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_turn) ...
+[2024.06.04-18.28.38:056][  1]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_turn.IndustrialHorror_PS_like_Pipes_vertical_turn
+[2024.06.04-18.28.43:837][276]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_vertical_turn' being destroyed
+[2024.06.04-18.28.43:843][276]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_vertical_turn' being destroyed
+[2024.06.04-18.28.43:968][276]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.43:968][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.43:983][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.28.44:875][340]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_short.IndustrialHorror_PS_like_Pipes_vertical_short
+[2024.06.04-18.28.44:875][340]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_short) ...
+[2024.06.04-18.28.44:875][340]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_vertical_short (Required Memory Estimate: 0.114789 MB)...
+[2024.06.04-18.28.44:879][340]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_short.IndustrialHorror_PS_like_Pipes_vertical_short
+[2024.06.04-18.28.47:190][434]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_vertical_short' being destroyed
+[2024.06.04-18.28.47:196][434]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_vertical_short' being destroyed
+[2024.06.04-18.28.47:317][434]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.28.47:317][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.28.47:331][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.04-18.28.48:181][491]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_long.IndustrialHorror_PS_like_Pipes_vertical_long
+[2024.06.04-18.28.48:181][491]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_long) ...
+[2024.06.04-18.28.48:181][491]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_vertical_long (Required Memory Estimate: 0.194998 MB)...
+[2024.06.04-18.28.48:189][491]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_vertical_long.IndustrialHorror_PS_like_Pipes_vertical_long
+[2024.06.04-18.29.06:946][ 25]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_vertical_long' being destroyed
+[2024.06.04-18.29.06:952][ 25]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_vertical_long' being destroyed
+[2024.06.04-18.29.07:085][ 25]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.29.07:085][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.29.07:101][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.06.04-18.29.07:931][ 84]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_support.IndustrialHorror_PS_like_Pipes_support
+[2024.06.04-18.29.07:931][ 84]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_support) ...
+[2024.06.04-18.29.07:931][ 84]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_support (Required Memory Estimate: 0.28723 MB)...
+[2024.06.04-18.29.07:938][ 84]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_support.IndustrialHorror_PS_like_Pipes_support
+[2024.06.04-18.29.13:418][335]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_support' being destroyed
+[2024.06.04-18.29.13:436][335]LogSlate: Window 'IndustrialHorror_PS_like_Pipes_support' being destroyed
+[2024.06.04-18.29.13:557][335]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.29.13:557][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.29.13:571][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.04-18.35.25:439][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.06.04-18.35.25:441][ 24]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainLevel' took 0.007
+[2024.06.04-18.35.25:441][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Liquid_reservoir_2_Mat] ([1] browsable assets)...
+[2024.06.04-18.35.25:570][ 24]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Liquid_reservoir_2_Mat.Liquid_reservoir_2_Mat]
+[2024.06.04-18.35.25:570][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Liquid_reservoir_2_Mat]
+[2024.06.04-18.35.25:570][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Liquid_reservoir_2_Mat" FILE="E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/Assets/Map/Liquid_reservoir_2_Mat_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-18.35.25:586][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Map/Liquid_reservoir_2_Mat_Auto2
+[2024.06.04-18.35.25:586][ 24]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Liquid_reservoir_2_Mat_Auto2F36539DF4022A8FD6B17A0B8C6F0D5EA.tmp' to 'E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/Assets/Map/Liquid_reservoir_2_Mat_Auto2.uasset'
+[2024.06.04-18.35.25:593][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Liquid_reservoir_1_Mat] ([1] browsable assets)...
+[2024.06.04-18.35.25:637][ 24]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Liquid_reservoir_1_Mat.Liquid_reservoir_1_Mat]
+[2024.06.04-18.35.25:638][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Liquid_reservoir_1_Mat]
+[2024.06.04-18.35.25:638][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Liquid_reservoir_1_Mat" FILE="E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/Assets/Map/Liquid_reservoir_1_Mat_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.06.04-18.35.25:653][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Map/Liquid_reservoir_1_Mat_Auto2
+[2024.06.04-18.35.25:654][ 24]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Liquid_reservoir_1_Mat_Auto2457458314617556F17B3CCA4CF19A238.tmp' to 'E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/Assets/Map/Liquid_reservoir_1_Mat_Auto2.uasset'
+[2024.06.04-18.35.25:657][ 24]LogFileHelpers: Auto-saving content packages took 0.216
+[2024.06.04-18.36.41:607][364]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_out_2.IndustrialHorror_PS_like_Pipes_out_2
+[2024.06.04-18.36.41:607][364]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_out_2) ...
+[2024.06.04-18.36.41:607][364]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_out_2 (Required Memory Estimate: 0.279886 MB)...
+[2024.06.04-18.36.41:612][364]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_out_2.IndustrialHorror_PS_like_Pipes_out_2
+[2024.06.04-18.36.42:913][390]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_turn_2.IndustrialHorror_PS_like_Pipes_horizontal_turn_2
+[2024.06.04-18.36.42:913][390]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_turn_2) ...
+[2024.06.04-18.36.42:913][390]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_horizontal_turn_2 (Required Memory Estimate: 0.14497 MB)...
+[2024.06.04-18.36.42:916][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_turn_2.IndustrialHorror_PS_like_Pipes_horizontal_turn_2
+[2024.06.04-18.36.44:198][423]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_turn_1.IndustrialHorror_PS_like_Pipes_horizontal_turn_1
+[2024.06.04-18.36.44:198][423]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_turn_1) ...
+[2024.06.04-18.36.44:198][423]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_horizontal_turn_1 (Required Memory Estimate: 0.14497 MB)...
+[2024.06.04-18.36.44:200][423]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_turn_1.IndustrialHorror_PS_like_Pipes_horizontal_turn_1
+[2024.06.04-18.36.44:971][429]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_short.IndustrialHorror_PS_like_Pipes_horizontal_short
+[2024.06.04-18.36.44:971][429]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_short) ...
+[2024.06.04-18.36.44:971][429]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_horizontal_short (Required Memory Estimate: 0.345275 MB)...
+[2024.06.04-18.36.44:979][429]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_short.IndustrialHorror_PS_like_Pipes_horizontal_short
+[2024.06.04-18.36.45:722][431]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_long.IndustrialHorror_PS_like_Pipes_horizontal_long
+[2024.06.04-18.36.45:722][431]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_long) ...
+[2024.06.04-18.36.45:722][431]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_horizontal_long (Required Memory Estimate: 1.016652 MB)...
+[2024.06.04-18.36.45:735][431]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_horizontal_long.IndustrialHorror_PS_like_Pipes_horizontal_long
+[2024.06.04-18.36.46:502][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_arch.IndustrialHorror_PS_like_Pipes_arch
+[2024.06.04-18.36.46:502][432]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Pipes_arch) ...
+[2024.06.04-18.36.46:502][432]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Pipes_arch (Required Memory Estimate: 1.107355 MB)...
+[2024.06.04-18.36.46:516][432]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Pipes_arch.IndustrialHorror_PS_like_Pipes_arch
+[2024.06.04-18.36.48:329][479]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Palet_stack.IndustrialHorror_PS_like_Palet_stack
+[2024.06.04-18.36.49:078][486]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Palet_single.IndustrialHorror_PS_like_Palet_single
+[2024.06.04-18.36.49:078][486]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Palet_single) ...
+[2024.06.04-18.36.49:796][489]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Metal_cabinet_2.IndustrialHorror_PS_like_Metal_cabinet_2
+[2024.06.04-18.36.49:796][489]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Metal_cabinet_2) ...
+[2024.06.04-18.36.50:505][492]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Metal_cabinet_1.IndustrialHorror_PS_like_Metal_cabinet_1
+[2024.06.04-18.36.50:505][492]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Metal_cabinet_1) ...
+[2024.06.04-18.36.51:463][507]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.04-18.36.51:463][507]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2) ...
+[2024.06.04-18.36.52:353][516]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.04-18.36.52:353][516]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1) ...
+[2024.06.04-18.36.54:283][575]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Generator.IndustrialHorror_PS_like_Generator
+[2024.06.04-18.36.54:283][575]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Generator) ...
+[2024.06.04-18.36.56:518][651]LogSlate: Window 'IndustrialHorror_PS_like_Generator' being destroyed
+[2024.06.04-18.36.56:523][651]LogSlate: Window 'IndustrialHorror_PS_like_Generator' being destroyed
+[2024.06.04-18.36.56:649][651]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.56:649][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.56:789][651]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.56:789][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.56:916][651]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.56:916][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.57:042][651]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.57:042][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.57:172][651]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.57:172][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.57:498][651]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.57:498][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.57:856][651]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.57:856][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:176][651]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.58:176][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:312][651]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.58:313][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:440][651]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.58:440][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:569][651]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.58:569][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:697][651]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.58:697][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:817][651]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.36.58:817][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.36.58:839][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.06.04-18.37.10:054][772]LogTexture: Display: Building textures: /Game/Assets/Map/Liquid_reservoir_1_n.Liquid_reservoir_1_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.10:057][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.06.04-18.37.13:002][772]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.13:025][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.04-18.37.13:029][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.04-18.37.13:033][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.37.14:593][873]LogTexture: Display: Building textures: /Game/Assets/Map/Liquid_reservoir_2_n.Liquid_reservoir_2_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.14:596][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.37.15:806][873]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.15:817][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.04-18.37.15:821][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.15:824][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.37.17:754][  7]LogTexture: Display: Building textures: /Game/Assets/Map/Metal_cabinet_1_n.Metal_cabinet_1_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.17:758][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.04-18.37.18:974][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.18:985][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.04-18.37.18:989][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.18:992][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.22:041][219]LogTexture: Display: Building textures: /Game/Assets/Map/Metal_cabinet_2_n.Metal_cabinet_2_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.22:042][219]LogTexture: Display: Building textures: /Game/Assets/Map/Pipes_n.Pipes_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.22:046][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.04-18.37.23:332][219]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.23:343][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.04-18.37.23:347][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.23:352][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.37.26:182][419]LogTexture: Display: Building textures: /Game/Assets/Map/Palet_n.Palet_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.26:184][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.04-18.37.27:136][419]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.27:146][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.04-18.37.27:151][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.04-18.37.27:155][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.37.29:289][570]LogTexture: Display: Building textures: /Game/Assets/Map/Ventilation_1_n.Ventilation_1_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.29:291][570]LogTexture: Display: Building textures: /Game/Assets/Map/Wall_n.Wall_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.29:293][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.37.30:391][570]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.30:402][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.04-18.37.30:406][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.30:410][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.32:791][705]LogTexture: Display: Building textures: /Game/Assets/Map/Ventilation_2_n.Ventilation_2_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.32:792][705]LogTexture: Display: Building textures: /Game/Assets/Map/Roadblock_n.Roadblock_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.37.32:795][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.06.04-18.37.33:972][705]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.33:983][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.04-18.37.33:988][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-18.37.33:991][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.37.46:659][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.37.53:363][584]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.37.53:367][584]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Asphalt_1-4_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.37.53:367][584]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.53:467][584]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor) ...
+[2024.06.04-18.37.53:496][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.04-18.37.54:654][584]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.37.54:662][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.37.54:742][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Alphalt_Floor] ([1] browsable assets)...
+[2024.06.04-18.37.54:742][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Alphalt_Floor]
+[2024.06.04-18.37.54:742][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Alphalt_Floor" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Alphalt_Floor.uasset" SILENT=true
+[2024.06.04-18.37.54:758][584]LogSavePackage: Moving output files for package: /Game/Assets/Map/Alphalt_Floor
+[2024.06.04-18.37.54:760][584]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Alphalt_Floor04A0AC6A4098A9BD1D2596AC808A3467.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Alphalt_Floor.uasset'
+[2024.06.04-18.37.54:771][584]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor] ([1] browsable assets)...
+[2024.06.04-18.37.54:777][584]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor.IndustrialHorror_PS_like_Alphalt_Floor]
+[2024.06.04-18.37.54:777][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor]
+[2024.06.04-18.37.54:777][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor.uasset" SILENT=true
+[2024.06.04-18.37.55:019][584]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor
+[2024.06.04-18.37.55:024][584]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_AlphaltB271723041069CC5ABAFF89306B6AC16.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor.uasset'
+[2024.06.04-18.37.55:044][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 382.587 ms (total: 36.1 sec)
+[2024.06.04-18.37.55:121][584]LogContentValidation: Display: Starting to validate 2 assets
+[2024.06.04-18.37.55:121][584]LogContentValidation: Enabled validators:
+[2024.06.04-18.37.55:121][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.37.55:121][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.37.55:121][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.37.55:121][584]LogContentValidation: Display: Validating asset /Game/Assets/Map/Alphalt_Floor.Alphalt_Floor
+[2024.06.04-18.37.55:121][584]AssetCheck: /Game/Assets/Map/Alphalt_Floor Validating asset
+[2024.06.04-18.37.55:121][584]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor.IndustrialHorror_PS_like_Alphalt_Floor
+[2024.06.04-18.37.55:121][584]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Alphalt_Floor Validating asset
+[2024.06.04-18.37.56:819][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.04-18.37.58:853][706]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.37.58:863][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.04-18.37.58:867][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.37.58:872][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.38.01:395][931]LogContentBrowser: Deferred new asset file creation: Bags_Mat
+[2024.06.04-18.38.01:395][931]LogTexture: Display: Building textures: /Game/Assets/Map/Bags.Bags (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.06.04-18.38.01:432][931]LogContentBrowser: Creating deferred item: Bags_Mat
+[2024.06.04-18.38.01:522][932]LogContentBrowser: Renaming the item being created (Deferred Item: Bags_Mat).
+[2024.06.04-18.38.02:390][ 12]LogContentBrowser: Attempting asset rename: Bags_Mat -> Bags_Mat
+[2024.06.04-18.38.02:407][ 12]LogContentBrowser: End creating deferred item Bags_Mat
+[2024.06.04-18.38.03:540][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.04-18.38.06:139][ 71]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.38.06:149][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.06.04-18.38.06:153][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.04-18.38.06:158][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.38.08:068][219]LogTexture: Display: Building textures: /Game/Assets/Map/Bags_n.Bags_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.38.08:071][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-18.38.09:219][219]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.38.09:228][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.04-18.38.09:232][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.38.09:237][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.38.11:083][380]LogContentBrowser: Deferred new asset file creation: Bags_Mat
+[2024.06.04-18.38.11:139][380]LogContentBrowser: Creating deferred item: Bags_Mat
+[2024.06.04-18.38.11:215][381]LogContentBrowser: Renaming the item being created (Deferred Item: Bags_Mat).
+[2024.06.04-18.38.12:249][476]LogContentBrowser: Attempting asset rename: Bags_Mat -> Bags_Mat
+[2024.06.04-18.38.12:266][476]LogContentBrowser: End creating deferred item Bags_Mat
+[2024.06.04-18.38.21:607][269]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Map/Bags.Bags
+[2024.06.04-18.38.26:739][584]LogSlate: Window 'Bags' being destroyed
+[2024.06.04-18.38.26:745][584]LogSlate: Window 'Bags' being destroyed
+[2024.06.04-18.38.29:448][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.04-18.38.30:872][763]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.38.30:881][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.38.30:886][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.06.04-18.38.30:891][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.38.33:947][ 23]LogContentBrowser: Deferred new asset file creation: Barrel_1_Mat
+[2024.06.04-18.38.33:947][ 23]LogTexture: Display: Building textures: /Game/Assets/Map/Barrel_1.Barrel_1 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.06.04-18.38.33:984][ 23]LogContentBrowser: Creating deferred item: Barrel_1_Mat
+[2024.06.04-18.38.34:076][ 24]LogContentBrowser: Renaming the item being created (Deferred Item: Barrel_1_Mat).
+[2024.06.04-18.38.34:723][ 84]LogContentBrowser: Attempting asset rename: Barrel_1_Mat -> Barrel_1_Mat
+[2024.06.04-18.38.34:740][ 84]LogContentBrowser: End creating deferred item Barrel_1_Mat
+[2024.06.04-18.38.35:646][155]LogContentBrowser: Deferred new asset file creation: Barrel_2_Mat
+[2024.06.04-18.38.35:649][155]LogTexture: Display: Building textures: /Game/Assets/Map/Barrel_2.Barrel_2 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.06.04-18.38.35:681][155]LogContentBrowser: Creating deferred item: Barrel_2_Mat
+[2024.06.04-18.38.35:733][156]LogContentBrowser: Renaming the item being created (Deferred Item: Barrel_2_Mat).
+[2024.06.04-18.38.36:145][194]LogContentBrowser: Attempting asset rename: Barrel_2_Mat -> Barrel_2_Mat
+[2024.06.04-18.38.36:164][194]LogContentBrowser: End creating deferred item Barrel_2_Mat
+[2024.06.04-18.38.37:321][280]LogContentBrowser: Deferred new asset file creation: Barrel_3_Mat
+[2024.06.04-18.38.37:322][280]LogTexture: Display: Building textures: /Game/Assets/Map/Barrel_3.Barrel_3 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.06.04-18.38.37:363][280]LogContentBrowser: Creating deferred item: Barrel_3_Mat
+[2024.06.04-18.38.37:397][281]LogContentBrowser: Renaming the item being created (Deferred Item: Barrel_3_Mat).
+[2024.06.04-18.38.37:913][329]LogContentBrowser: Attempting asset rename: Barrel_3_Mat -> Barrel_3_Mat
+[2024.06.04-18.38.37:930][329]LogContentBrowser: End creating deferred item Barrel_3_Mat
+[2024.06.04-18.38.40:107][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.04-18.38.47:991][504]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.38.47:996][504]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Barrel_1_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.38.47:996][504]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.38.48:098][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.04-18.38.48:878][504]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.38.48:885][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.38.48:942][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Barrel_4] ([1] browsable assets)...
+[2024.06.04-18.38.48:942][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Barrel_4]
+[2024.06.04-18.38.48:942][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Barrel_4" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_4.uasset" SILENT=true
+[2024.06.04-18.38.48:955][504]LogSavePackage: Moving output files for package: /Game/Assets/Map/Barrel_4
+[2024.06.04-18.38.48:959][504]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Barrel_4B5276470471EF35F0C49E1AB8E0A3BBC.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_4.uasset'
+[2024.06.04-18.38.48:977][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.931 ms (total: 36.2 sec)
+[2024.06.04-18.38.49:061][504]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.38.49:061][504]LogContentValidation: Enabled validators:
+[2024.06.04-18.38.49:061][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.38.49:061][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.38.49:061][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.38.49:061][504]LogContentValidation: Display: Validating asset /Game/Assets/Map/Barrel_4.Barrel_4
+[2024.06.04-18.38.49:061][504]AssetCheck: /Game/Assets/Map/Barrel_4 Validating asset
+[2024.06.04-18.38.50:436][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.38.58:040][600]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.38.58:044][600]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Barrel_2_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.38.58:044][600]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.38.58:143][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.04-18.38.58:901][600]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.38.58:909][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.38.58:993][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Barrel_5] ([1] browsable assets)...
+[2024.06.04-18.38.58:994][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Barrel_5]
+[2024.06.04-18.38.58:994][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Barrel_5" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_5.uasset" SILENT=true
+[2024.06.04-18.38.59:008][600]LogSavePackage: Moving output files for package: /Game/Assets/Map/Barrel_5
+[2024.06.04-18.38.59:010][600]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Barrel_530D84FA445559FCC0EAEF78A086E9C4D.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_5.uasset'
+[2024.06.04-18.38.59:030][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.024 ms (total: 36.3 sec)
+[2024.06.04-18.38.59:114][600]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.38.59:114][600]LogContentValidation: Enabled validators:
+[2024.06.04-18.38.59:114][600]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.38.59:114][600]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.38.59:114][600]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.38.59:114][600]LogContentValidation: Display: Validating asset /Game/Assets/Map/Barrel_5.Barrel_5
+[2024.06.04-18.38.59:114][600]AssetCheck: /Game/Assets/Map/Barrel_5 Validating asset
+[2024.06.04-18.39.00:968][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.04-18.39.06:860][732]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.39.06:865][732]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Barrel_3_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.39.06:865][732]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.39.06:966][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.04-18.39.08:043][732]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.39.08:052][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.39.08:130][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Barrel_6] ([1] browsable assets)...
+[2024.06.04-18.39.08:130][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Barrel_6]
+[2024.06.04-18.39.08:130][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Barrel_6" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_6.uasset" SILENT=true
+[2024.06.04-18.39.08:146][732]LogSavePackage: Moving output files for package: /Game/Assets/Map/Barrel_6
+[2024.06.04-18.39.08:148][732]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Barrel_6C36659B24BB349577C81AAADC1379633.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_6.uasset'
+[2024.06.04-18.39.08:167][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.812 ms (total: 36.4 sec)
+[2024.06.04-18.39.08:229][732]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.39.08:229][732]LogContentValidation: Enabled validators:
+[2024.06.04-18.39.08:229][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.39.08:229][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.39.08:229][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.39.08:229][732]LogContentValidation: Display: Validating asset /Game/Assets/Map/Barrel_6.Barrel_6
+[2024.06.04-18.39.08:229][732]AssetCheck: /Game/Assets/Map/Barrel_6 Validating asset
+[2024.06.04-18.39.11:036][917]LogTexture: Display: Building textures: /Game/Assets/Map/Barrel_3_n.Barrel_3_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.39.11:037][917]LogTexture: Display: Building textures: /Game/Assets/Map/Barrel_2_n.Barrel_2_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.39.11:037][917]LogTexture: Display: Building textures: /Game/Assets/Map/Barrel_1_n.Barrel_1_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.39.11:039][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.06.04-18.39.12:468][917]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.39.12:479][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.04-18.39.12:484][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.39.12:488][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.39.14:880][ 87]LogTexture: Display: Building textures: /Game/Assets/Map/Box_wood_n.Box_wood_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.39.14:883][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.04-18.39.16:780][ 87]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.39.19:375][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.04-18.39.20:758][283]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.39.20:768][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.06.04-18.39.20:772][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.39.20:777][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.39.23:608][510]LogContentBrowser: Deferred new asset file creation: Box_wood_Mat
+[2024.06.04-18.39.23:608][510]LogTexture: Display: Building textures: /Game/Assets/Map/Box_wood.Box_wood (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.06.04-18.39.23:644][510]LogContentBrowser: Creating deferred item: Box_wood_Mat
+[2024.06.04-18.39.23:737][511]LogContentBrowser: Renaming the item being created (Deferred Item: Box_wood_Mat).
+[2024.06.04-18.39.24:362][561]LogContentBrowser: Attempting asset rename: Box_wood_Mat -> Box_wood_Mat
+[2024.06.04-18.39.24:379][561]LogContentBrowser: End creating deferred item Box_wood_Mat
+[2024.06.04-18.39.25:778][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.04-18.39.34:550][649]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.39.34:555][649]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Box_wood_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.39.34:555][649]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.39.34:654][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.04-18.39.35:425][649]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.39.35:433][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.39.35:489][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Box_wood1] ([1] browsable assets)...
+[2024.06.04-18.39.35:489][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Box_wood1]
+[2024.06.04-18.39.35:489][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Box_wood1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Box_wood1.uasset" SILENT=true
+[2024.06.04-18.39.35:506][649]LogSavePackage: Moving output files for package: /Game/Assets/Map/Box_wood1
+[2024.06.04-18.39.35:508][649]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Box_wood142B042F240DD3CFE49533AA3DF3C9727.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Box_wood1.uasset'
+[2024.06.04-18.39.35:528][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.182 ms (total: 36.5 sec)
+[2024.06.04-18.39.35:620][649]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.39.35:620][649]LogContentValidation: Enabled validators:
+[2024.06.04-18.39.35:620][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.39.35:620][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.39.35:620][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.39.35:620][649]LogContentValidation: Display: Validating asset /Game/Assets/Map/Box_wood1.Box_wood1
+[2024.06.04-18.39.35:620][649]AssetCheck: /Game/Assets/Map/Box_wood1 Validating asset
+[2024.06.04-18.39.38:883][902]LogContentBrowser: Deferred new asset file creation: Bridges_Mat1
+[2024.06.04-18.39.38:884][902]LogTexture: Display: Building textures: /Game/Assets/Map/Bridges.Bridges (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.06.04-18.39.38:920][902]LogContentBrowser: Creating deferred item: Bridges_Mat1
+[2024.06.04-18.39.39:013][903]LogContentBrowser: Renaming the item being created (Deferred Item: Bridges_Mat1).
+[2024.06.04-18.39.39:903][965]LogContentBrowser: Attempting asset rename: Bridges_Mat1 -> Bridges_Mat1
+[2024.06.04-18.39.39:919][965]LogContentBrowser: End creating deferred item Bridges_Mat1
+[2024.06.04-18.39.43:137][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.04-18.39.51:448][131]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.39.51:452][131]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Bridges_Mat1; and then delete them.
+
+Are you sure?
+[2024.06.04-18.39.51:452][131]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.39.51:553][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.04-18.39.52:713][131]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.39.52:724][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.39.52:801][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.04-18.39.52:938][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.00:949][131]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.04-18.40.00:998][131]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel988812D44E349AB470B4379AED43D347.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.04-18.40.01:198][131]LogFileHelpers: Saving map 'MainLevel' took 8.399
+[2024.06.04-18.40.01:199][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Bridges_Mat] ([1] browsable assets)...
+[2024.06.04-18.40.01:199][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Bridges_Mat]
+[2024.06.04-18.40.01:199][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Bridges_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Bridges_Mat.uasset" SILENT=true
+[2024.06.04-18.40.01:212][131]LogSavePackage: Moving output files for package: /Game/Assets/Map/Bridges_Mat
+[2024.06.04-18.40.01:260][131]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Bridges_Mat31E7B6094E42FD1EC644C48AB4A72023.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Bridges_Mat.uasset'
+[2024.06.04-18.40.01:322][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.59 sec (total: 45.1 sec)
+[2024.06.04-18.40.01:400][131]LogContentValidation: Display: Starting to validate 2 assets
+[2024.06.04-18.40.01:400][131]LogContentValidation: Enabled validators:
+[2024.06.04-18.40.01:400][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.40.01:400][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.40.01:400][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.40.01:400][131]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.04-18.40.01:401][131]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.04-18.40.01:401][131]LogContentValidation: Display: Validating asset /Game/Assets/Map/Bridges_Mat.Bridges_Mat
+[2024.06.04-18.40.01:401][131]AssetCheck: /Game/Assets/Map/Bridges_Mat Validating asset
+[2024.06.04-18.40.06:569][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.04-18.40.07:710][456]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.07:723][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.04-18.40.07:729][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.04-18.40.07:734][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.40.09:128][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.15:898][549]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.21:828][948]LogTexture: Display: Building textures: /Game/Assets/Map/Building_5_n.Building_5_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.21:831][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.04-18.40.23:215][948]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.23:225][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.04-18.40.23:230][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.40.23:234][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.24:747][ 54]LogTexture: Display: Building textures: /Game/Assets/Map/Building_3_n.Building_3_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.24:750][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.04-18.40.25:872][ 54]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.25:882][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.04-18.40.25:887][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.40.25:891][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.26:915][115]LogTexture: Display: Building textures: /Game/Assets/Map/Building_6_n.Building_6_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.26:917][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.06.04-18.40.27:843][115]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.27:853][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.27:858][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.27:861][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.28:915][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.04-18.40.30:485][186]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.31:385][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.04-18.40.32:302][248]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.32:312][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.32:317][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.06.04-18.40.32:320][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.33:961][359]LogTexture: Display: Building textures: /Game/Assets/Map/Building_4_n.Building_4_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.33:964][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.06.04-18.40.35:158][359]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.35:168][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-18.40.35:172][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.35:176][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.35:912][399]LogTexture: Display: Building textures: /Game/Assets/Map/Building_13_n.Building_13_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.35:915][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.04-18.40.36:777][399]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.36:786][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.36:791][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.36:795][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.37:998][488]LogTexture: Display: Building textures: /Game/Assets/Map/Building_7_n.Building_7_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.38:001][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.06.04-18.40.38:867][488]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.38:876][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.04-18.40.38:881][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.38:885][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.41:237][661]LogTexture: Display: Building textures: /Game/Assets/Map/Cargo_1_n.Cargo_1_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.41:240][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.04-18.40.41:997][661]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.42:007][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.40.42:012][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.40.42:015][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.42:838][722]LogTexture: Display: Building textures: /Game/Assets/Map/Cargo_2_n.Cargo_2_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.42:843][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.04-18.40.43:719][722]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.43:729][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.43:734][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.43:738][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.44:564][774]LogTexture: Display: Building textures: /Game/Assets/Map/Cargo_3_n.Cargo_3_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.44:566][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.45:570][774]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.45:581][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.40.45:586][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.04-18.40.45:591][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.46:420][831]LogTexture: Display: Building textures: /Game/Assets/Map/Cargo_4_n.Cargo_4_n (TFO_BC5, 256x256 x1x1x1) (Required Memory Estimate: 18.562259 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.46:422][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.06.04-18.40.47:187][831]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.47:197][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.47:202][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.47:206][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.48:811][944]LogTexture: Display: Building textures: /Game/Assets/Map/Concrete_n.Concrete_n (TFO_BC5, 256x128 x1x1x1) (Required Memory Estimate: 9.312361 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.48:816][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.04-18.40.49:496][944]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.49:505][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.04-18.40.49:510][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.40.49:514][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.40.50:865][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.40.52:274][ 40]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.53:193][105]LogTexture: Display: Building textures: /Game/Assets/Map/Cooling_tower_n.Cooling_tower_n (TFO_BC5, 128x256 x1x1x1) (Required Memory Estimate: 9.312361 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.53:197][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-18.40.54:008][105]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.54:018][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.40.54:023][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.54:027][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.40.58:511][489]LogTexture: Display: Building textures: /Game/Assets/Map/Fence_n.Fence_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.40.58:513][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.04-18.40.59:300][489]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.40.59:310][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.40.59:315][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-18.40.59:319][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.06.04-18.41.00:296][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.41.04:900][547]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.41.12:436][ 67]LogTexture: Display: Building textures: /Game/Assets/Map/Generator_n.Generator_n (TFO_BC5, 128x128 x1x1x1) (Required Memory Estimate: 4.68743 MB), EncodeSpeed: Fast
+[2024.06.04-18.41.12:438][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.04-18.41.13:565][ 67]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.41.13:575][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.04-18.41.13:579][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-18.41.13:584][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.04-18.41.16:779][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.41.22:594][287]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.41.22:599][287]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Generator_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.41.22:599][287]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.41.22:690][287]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Generator) ...
+[2024.06.04-18.41.22:718][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.04-18.41.23:419][287]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.41.23:427][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.41.23:513][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Generator1] ([1] browsable assets)...
+[2024.06.04-18.41.23:513][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Generator1]
+[2024.06.04-18.41.23:513][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Generator1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Generator1.uasset" SILENT=true
+[2024.06.04-18.41.23:533][287]LogSavePackage: Moving output files for package: /Game/Assets/Map/Generator1
+[2024.06.04-18.41.23:536][287]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Generator175E89FB04C59CD95B2B682A1D7BCF9C4.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Generator1.uasset'
+[2024.06.04-18.41.23:547][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Generator] ([1] browsable assets)...
+[2024.06.04-18.41.23:555][287]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Generator.IndustrialHorror_PS_like_Generator]
+[2024.06.04-18.41.23:555][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Generator]
+[2024.06.04-18.41.23:555][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Generator" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Generator.uasset" SILENT=true
+[2024.06.04-18.41.23:779][287]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Generator
+[2024.06.04-18.41.23:787][287]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_GeneratC47E04F34155BC687E96A9AED90EF996.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Generator.uasset'
+[2024.06.04-18.41.23:805][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 377.611 ms (total: 45.5 sec)
+[2024.06.04-18.41.23:858][287]LogContentValidation: Display: Starting to validate 2 assets
+[2024.06.04-18.41.23:858][287]LogContentValidation: Enabled validators:
+[2024.06.04-18.41.23:858][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.41.23:858][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.41.23:858][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.41.23:858][287]LogContentValidation: Display: Validating asset /Game/Assets/Map/Generator1.Generator1
+[2024.06.04-18.41.23:858][287]AssetCheck: /Game/Assets/Map/Generator1 Validating asset
+[2024.06.04-18.41.23:858][287]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Generator.IndustrialHorror_PS_like_Generator
+[2024.06.04-18.41.23:858][287]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Generator Validating asset
+[2024.06.04-18.41.25:682][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.04-18.41.28:586][404]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.41.30:582][582]LogContentBrowser: Deferred new asset file creation: Fence_Mat
+[2024.06.04-18.41.30:583][582]LogTexture: Display: Building textures: /Game/Assets/Map/Fence.Fence (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.645795 MB), EncodeSpeed: Fast
+[2024.06.04-18.41.30:623][582]LogContentBrowser: Creating deferred item: Fence_Mat
+[2024.06.04-18.41.30:712][583]LogContentBrowser: Renaming the item being created (Deferred Item: Fence_Mat).
+[2024.06.04-18.41.31:708][653]LogContentBrowser: Attempting asset rename: Fence_Mat -> Fence_Mat
+[2024.06.04-18.41.31:720][653]LogContentBrowser: End creating deferred item Fence_Mat
+[2024.06.04-18.41.34:214][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.04-18.41.40:234][890]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.41.40:238][890]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Fence_Mat; and then delete them.
+
+Are you sure?
+[2024.06.04-18.41.40:238][890]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.41.40:336][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.06.04-18.41.42:590][890]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.41.42:598][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.41.42:667][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Fence1] ([1] browsable assets)...
+[2024.06.04-18.41.42:667][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Fence1]
+[2024.06.04-18.41.42:667][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Fence1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence1.uasset" SILENT=true
+[2024.06.04-18.41.42:688][890]LogSavePackage: Moving output files for package: /Game/Assets/Map/Fence1
+[2024.06.04-18.41.42:690][890]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Fence1BC9CF4674A5DED9B7F9B639491443CE7.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence1.uasset'
+[2024.06.04-18.41.42:709][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.783 ms (total: 45.6 sec)
+[2024.06.04-18.41.42:782][890]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-18.41.42:782][890]LogContentValidation: Enabled validators:
+[2024.06.04-18.41.42:782][890]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.41.42:782][890]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.41.42:782][890]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.41.42:782][890]LogContentValidation: Display: Validating asset /Game/Assets/Map/Fence1.Fence1
+[2024.06.04-18.41.42:782][890]AssetCheck: /Game/Assets/Map/Fence1 Validating asset
+[2024.06.04-18.41.49:087][314]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Fence.IndustrialHorror_PS_like_Fence
+[2024.06.04-18.41.49:087][314]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Fence) ...
+[2024.06.04-18.41.49:088][314]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Fence (Required Memory Estimate: 0.014934 MB)...
+[2024.06.04-18.41.49:091][314]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Fence.IndustrialHorror_PS_like_Fence
+[2024.06.04-18.41.52:786][481]LogSlate: Window 'IndustrialHorror_PS_like_Fence' being destroyed
+[2024.06.04-18.41.52:791][481]LogSlate: Window 'IndustrialHorror_PS_like_Fence' being destroyed
+[2024.06.04-18.41.52:921][481]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.41.52:921][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.41.52:937][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.04-18.41.57:563][810]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_support_1.IndustrialHorror_PS_like_Bridges_support_1
+[2024.06.04-18.41.57:563][810]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_support_1) ...
+[2024.06.04-18.41.57:563][810]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Bridges_support_1 (Required Memory Estimate: 0.03701 MB)...
+[2024.06.04-18.41.57:566][810]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_support_1.IndustrialHorror_PS_like_Bridges_support_1
+[2024.06.04-18.41.59:460][874]LogSlate: Window 'IndustrialHorror_PS_like_Bridges_support_1' being destroyed
+[2024.06.04-18.41.59:466][874]LogSlate: Window 'IndustrialHorror_PS_like_Bridges_support_1' being destroyed
+[2024.06.04-18.41.59:594][874]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.41.59:594][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.41.59:609][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.06.04-18.42.00:338][914]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2.IndustrialHorror_PS_like_Bridges_stairs_2
+[2024.06.04-18.42.01:472][937]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2.IndustrialHorror_PS_like_Bridges_2
+[2024.06.04-18.42.02:561][965]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1.IndustrialHorror_PS_like_Bridges_1
+[2024.06.04-18.42.02:561][965]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1) ...
+[2024.06.04-18.42.05:903][121]LogSlate: Window 'IndustrialHorror_PS_like_Bridges_1' being destroyed
+[2024.06.04-18.42.05:908][121]LogSlate: Window 'IndustrialHorror_PS_like_Bridges_1' being destroyed
+[2024.06.04-18.42.06:038][121]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.42.06:038][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.42.06:170][121]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.42.06:170][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.42.06:294][121]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.42.06:295][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.42.06:312][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.04-18.42.14:147][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.04-18.42.25:787][610]LogSlate: Window 'Replace References?' being destroyed
+[2024.06.04-18.42.25:796][610]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Bridges_Mat1; and then delete them.
+
+Are you sure?
+[2024.06.04-18.42.25:796][610]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.42.25:915][610]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1) ...
+[2024.06.04-18.42.25:945][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.04-18.42.27:376][610]LogSlate: Window 'Save Content' being destroyed
+[2024.06.04-18.42.27:389][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.42.27:475][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Bridges_turn] ([1] browsable assets)...
+[2024.06.04-18.42.27:475][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Bridges_turn]
+[2024.06.04-18.42.27:475][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Bridges_turn" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Bridges_turn.uasset" SILENT=true
+[2024.06.04-18.42.27:491][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/Bridges_turn
+[2024.06.04-18.42.27:494][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Bridges_turn16F5FD12412BA27B7C96E4AFD9A84EEB.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Bridges_turn.uasset'
+[2024.06.04-18.42.27:508][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1] ([1] browsable assets)...
+[2024.06.04-18.42.27:516][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1.IndustrialHorror_PS_like_Bridges_1]
+[2024.06.04-18.42.27:516][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1]
+[2024.06.04-18.42.27:516][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_1.uasset" SILENT=true
+[2024.06.04-18.42.28:082][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1
+[2024.06.04-18.42.28:085][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_BridgesB0DE4F5149036CDA9C70139175FE5ABF.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_1.uasset'
+[2024.06.04-18.42.28:141][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2] ([1] browsable assets)...
+[2024.06.04-18.42.28:147][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2.IndustrialHorror_PS_like_Bridges_2]
+[2024.06.04-18.42.28:147][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2]
+[2024.06.04-18.42.28:147][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_2.uasset" SILENT=true
+[2024.06.04-18.42.28:640][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2
+[2024.06.04-18.42.28:644][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_Bridges8146C56044285B9E3421FF9C17CE2184.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_2.uasset'
+[2024.06.04-18.42.28:655][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3] ([1] browsable assets)...
+[2024.06.04-18.42.28:662][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3.IndustrialHorror_PS_like_Bridges_3]
+[2024.06.04-18.42.28:662][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3]
+[2024.06.04-18.42.28:662][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_3.uasset" SILENT=true
+[2024.06.04-18.42.28:945][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3
+[2024.06.04-18.42.28:948][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_BridgesE3E74C254140CF0432F8D184AFFF8E29.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_3.uasset'
+[2024.06.04-18.42.28:959][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1] ([1] browsable assets)...
+[2024.06.04-18.42.28:964][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1.IndustrialHorror_PS_like_Bridges_stairs_1]
+[2024.06.04-18.42.28:964][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1]
+[2024.06.04-18.42.28:964][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1.uasset" SILENT=true
+[2024.06.04-18.42.30:540][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1
+[2024.06.04-18.42.30:543][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_BridgesFC59142A4F3AD8A5B2E72AB8151BE13E.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1.uasset'
+[2024.06.04-18.42.30:555][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2] ([1] browsable assets)...
+[2024.06.04-18.42.30:561][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2.IndustrialHorror_PS_like_Bridges_stairs_2]
+[2024.06.04-18.42.30:561][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2]
+[2024.06.04-18.42.30:561][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2.uasset" SILENT=true
+[2024.06.04-18.42.30:901][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2
+[2024.06.04-18.42.30:904][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_Bridges3A8750AF457CFD8EBE4FD3847DE6671E.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2.uasset'
+[2024.06.04-18.42.30:915][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn] ([1] browsable assets)...
+[2024.06.04-18.42.30:920][610]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn.IndustrialHorror_PS_like_Bridges_turn]
+[2024.06.04-18.42.30:920][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn]
+[2024.06.04-18.42.30:920][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_turn.uasset" SILENT=true
+[2024.06.04-18.42.31:257][610]LogSavePackage: Moving output files for package: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn
+[2024.06.04-18.42.31:265][610]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/IndustrialHorror_PS_like_Bridges39A64D0D43D2DC6743AAC6B1FB55BA5D.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/IndustrialHorror_PS_like_Bridges_turn.uasset'
+[2024.06.04-18.42.31:284][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.89 sec (total: 49.5 sec)
+[2024.06.04-18.42.31:358][610]LogContentValidation: Display: Starting to validate 7 assets
+[2024.06.04-18.42.31:358][610]LogContentValidation: Enabled validators:
+[2024.06.04-18.42.31:358][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.42.31:358][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.42.31:358][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.42.31:358][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/Bridges_turn.Bridges_turn
+[2024.06.04-18.42.31:358][610]AssetCheck: /Game/Assets/Map/Bridges_turn Validating asset
+[2024.06.04-18.42.31:358][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1.IndustrialHorror_PS_like_Bridges_1
+[2024.06.04-18.42.31:360][610]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_1 Validating asset
+[2024.06.04-18.42.31:360][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2.IndustrialHorror_PS_like_Bridges_2
+[2024.06.04-18.42.31:360][610]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_2 Validating asset
+[2024.06.04-18.42.31:360][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3.IndustrialHorror_PS_like_Bridges_3
+[2024.06.04-18.42.31:360][610]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_3 Validating asset
+[2024.06.04-18.42.31:360][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1.IndustrialHorror_PS_like_Bridges_stairs_1
+[2024.06.04-18.42.31:360][610]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_1 Validating asset
+[2024.06.04-18.42.31:360][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2.IndustrialHorror_PS_like_Bridges_stairs_2
+[2024.06.04-18.42.31:360][610]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_stairs_2 Validating asset
+[2024.06.04-18.42.31:360][610]LogContentValidation: Display: Validating asset /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn.IndustrialHorror_PS_like_Bridges_turn
+[2024.06.04-18.42.31:360][610]AssetCheck: /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_turn Validating asset
+[2024.06.04-18.42.32:750][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.04-18.42.37:257][685]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.04-18.42.48:018][387]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Concrete_stairs.IndustrialHorror_PS_like_Concrete_stairs
+[2024.06.04-18.42.48:018][387]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Concrete_stairs) ...
+[2024.06.04-18.42.50:016][461]LogSlate: Window 'IndustrialHorror_PS_like_Concrete_stairs' being destroyed
+[2024.06.04-18.42.50:023][461]LogSlate: Window 'IndustrialHorror_PS_like_Concrete_stairs' being destroyed
+[2024.06.04-18.42.50:151][461]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.42.50:151][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.42.50:167][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.06.04-18.42.51:113][535]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Cargo_2_full.IndustrialHorror_PS_like_Cargo_2_full
+[2024.06.04-18.42.51:113][535]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Cargo_2_full (Required Memory Estimate: 0.175024 MB)...
+[2024.06.04-18.42.51:113][535]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Cargo_2_full) ...
+[2024.06.04-18.42.51:118][535]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Cargo_2_full.IndustrialHorror_PS_like_Cargo_2_full
+[2024.06.04-18.42.54:907][693]LogSlate: Window 'IndustrialHorror_PS_like_Cargo_2_full' being destroyed
+[2024.06.04-18.42.54:913][693]LogSlate: Window 'IndustrialHorror_PS_like_Cargo_2_full' being destroyed
+[2024.06.04-18.42.55:037][693]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.42.55:037][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.42.55:053][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.06.04-18.43.00:007][  6]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Bridges_end.IndustrialHorror_PS_like_Bridges_end
+[2024.06.04-18.43.00:007][  6]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/IndustrialHorror_PS_like_Bridges_end) ...
+[2024.06.04-18.43.02:622][115]LogSlate: Window 'IndustrialHorror_PS_like_Bridges_end' being destroyed
+[2024.06.04-18.43.02:626][115]LogSlate: Window 'IndustrialHorror_PS_like_Bridges_end' being destroyed
+[2024.06.04-18.43.02:750][115]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-18.43.02:750][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-18.43.02:766][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.06.04-18.43.39:549][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.04-18.43.39:561][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-18.43.39:644][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.04-18.43.39:775][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.06.04-18.43.53:153][468]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.04-18.43.53:156][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel6F0789B24CD8278FEB65699EB52BA5AE.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.04-18.43.53:215][468]LogFileHelpers: Saving map 'MainLevel' took 13.572
+[2024.06.04-18.43.53:216][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Asphalt_1-4_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:412][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Asphalt_1-4_Mat.Asphalt_1-4_Mat]
+[2024.06.04-18.43.53:412][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Asphalt_1-4_Mat]
+[2024.06.04-18.43.53:412][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Asphalt_1-4_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Asphalt_1-4_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:429][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Asphalt_1-4_Mat
+[2024.06.04-18.43.53:433][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Asphalt_1-4_MatD2A008A544D63D77065D9F918A5D07BD.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Asphalt_1-4_Mat.uasset'
+[2024.06.04-18.43.53:443][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Bridges_Mat1] ([1] browsable assets)...
+[2024.06.04-18.43.53:474][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Bridges_Mat1.Bridges_Mat1]
+[2024.06.04-18.43.53:474][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Bridges_Mat1]
+[2024.06.04-18.43.53:474][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Bridges_Mat1" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Bridges_Mat1.uasset" SILENT=true
+[2024.06.04-18.43.53:492][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Bridges_Mat1
+[2024.06.04-18.43.53:492][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Bridges_Mat1BA836BEF4FE24268AC5E3395C2513086.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Bridges_Mat1.uasset'
+[2024.06.04-18.43.53:499][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Generator_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:530][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Generator_Mat.Generator_Mat]
+[2024.06.04-18.43.53:530][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Generator_Mat]
+[2024.06.04-18.43.53:530][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Generator_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Generator_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:543][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Generator_Mat
+[2024.06.04-18.43.53:549][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Generator_Mat6A01318A4E7BCE85C710BBA37EE32837.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Generator_Mat.uasset'
+[2024.06.04-18.43.53:560][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Liquid_reservoir_2_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:560][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Liquid_reservoir_2_Mat]
+[2024.06.04-18.43.53:560][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Liquid_reservoir_2_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_2_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:575][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Liquid_reservoir_2_Mat
+[2024.06.04-18.43.53:575][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Liquid_reservoir_2_MatF20890AE401F7062EAF244BB642AD5F9.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_2_Mat.uasset'
+[2024.06.04-18.43.53:578][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Liquid_reservoir_1_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:578][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Liquid_reservoir_1_Mat]
+[2024.06.04-18.43.53:578][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Liquid_reservoir_1_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_1_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:593][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Liquid_reservoir_1_Mat
+[2024.06.04-18.43.53:593][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Liquid_reservoir_1_MatBF0745014BA1FEB42D0B39BFE837AE83.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Liquid_reservoir_1_Mat.uasset'
+[2024.06.04-18.43.53:597][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Barrel_1_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:628][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Barrel_1_Mat.Barrel_1_Mat]
+[2024.06.04-18.43.53:628][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Barrel_1_Mat]
+[2024.06.04-18.43.53:628][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Barrel_1_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_1_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:645][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Barrel_1_Mat
+[2024.06.04-18.43.53:645][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Barrel_1_Mat6B0339B84DB81DC9E53A06B395D6232D.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_1_Mat.uasset'
+[2024.06.04-18.43.53:649][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Barrel_2_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:678][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Barrel_2_Mat.Barrel_2_Mat]
+[2024.06.04-18.43.53:678][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Barrel_2_Mat]
+[2024.06.04-18.43.53:678][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Barrel_2_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_2_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:694][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Barrel_2_Mat
+[2024.06.04-18.43.53:694][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Barrel_2_Mat0351090F4C79B7E75EA39E9E65737289.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_2_Mat.uasset'
+[2024.06.04-18.43.53:698][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Barrel_3_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:729][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Barrel_3_Mat.Barrel_3_Mat]
+[2024.06.04-18.43.53:729][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Barrel_3_Mat]
+[2024.06.04-18.43.53:729][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Barrel_3_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_3_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:743][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Barrel_3_Mat
+[2024.06.04-18.43.53:743][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Barrel_3_Mat7A483B324FE30C47C40877B67EF62F15.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Barrel_3_Mat.uasset'
+[2024.06.04-18.43.53:750][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Box_wood_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:780][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Box_wood_Mat.Box_wood_Mat]
+[2024.06.04-18.43.53:780][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Box_wood_Mat]
+[2024.06.04-18.43.53:780][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Box_wood_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Box_wood_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:794][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Box_wood_Mat
+[2024.06.04-18.43.53:794][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Box_wood_MatD76B018F45360C971DBC43A63AC67A09.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Box_wood_Mat.uasset'
+[2024.06.04-18.43.53:801][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Fence_Mat] ([1] browsable assets)...
+[2024.06.04-18.43.53:833][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Map/Fence_Mat.Fence_Mat]
+[2024.06.04-18.43.53:833][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Fence_Mat]
+[2024.06.04-18.43.53:833][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Fence_Mat" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_Mat.uasset" SILENT=true
+[2024.06.04-18.43.53:848][468]LogSavePackage: Moving output files for package: /Game/Assets/Map/Fence_Mat
+[2024.06.04-18.43.53:848][468]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Fence_Mat536962DD4719BE38E9E9B49D9A402364.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_Mat.uasset'
+[2024.06.04-18.43.53:867][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.3 sec (total: 1:03 min)
+[2024.06.04-18.43.53:936][468]LogContentValidation: Display: Starting to validate 11 assets
+[2024.06.04-18.43.53:936][468]LogContentValidation: Enabled validators:
+[2024.06.04-18.43.53:936][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-18.43.53:936][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-18.43.53:936][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-18.43.53:936][468]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.04-18.43.53:936][468]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.04-18.43.53:936][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Asphalt_1-4_Mat.Asphalt_1-4_Mat
+[2024.06.04-18.43.53:936][468]AssetCheck: /Game/Assets/Map/Asphalt_1-4_Mat Validating asset
+[2024.06.04-18.43.53:936][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Bridges_Mat1.Bridges_Mat1
+[2024.06.04-18.43.53:936][468]AssetCheck: /Game/Assets/Map/Bridges_Mat1 Validating asset
+[2024.06.04-18.43.53:936][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Generator_Mat.Generator_Mat
+[2024.06.04-18.43.53:936][468]AssetCheck: /Game/Assets/Map/Generator_Mat Validating asset
+[2024.06.04-18.43.53:936][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Liquid_reservoir_2_Mat.Liquid_reservoir_2_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Liquid_reservoir_2_Mat Validating asset
+[2024.06.04-18.43.53:937][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Liquid_reservoir_1_Mat.Liquid_reservoir_1_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Liquid_reservoir_1_Mat Validating asset
+[2024.06.04-18.43.53:937][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Barrel_1_Mat.Barrel_1_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Barrel_1_Mat Validating asset
+[2024.06.04-18.43.53:937][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Barrel_2_Mat.Barrel_2_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Barrel_2_Mat Validating asset
+[2024.06.04-18.43.53:937][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Barrel_3_Mat.Barrel_3_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Barrel_3_Mat Validating asset
+[2024.06.04-18.43.53:937][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Box_wood_Mat.Box_wood_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Box_wood_Mat Validating asset
+[2024.06.04-18.43.53:937][468]LogContentValidation: Display: Validating asset /Game/Assets/Map/Fence_Mat.Fence_Mat
+[2024.06.04-18.43.53:937][468]AssetCheck: /Game/Assets/Map/Fence_Mat Validating asset
