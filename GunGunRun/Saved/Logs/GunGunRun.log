@@ -1082,3 +1082,172 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.04-14.38.51:888][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.04-14.38.51:888][683]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.06.04-14.38.51:889][683]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.04-14.40.13:331][803]Cmd: EDIT COPY
+[2024.06.04-14.40.13:601][816]Cmd: EDIT PASTE
+[2024.06.04-14.40.56:192][946]Cmd: TRANSACTION UNDO
+[2024.06.04-14.40.56:192][946]LogEditorTransaction: Undo Set Location
+[2024.06.04-14.42.17:125][808]Cmd: EDIT COPY
+[2024.06.04-14.42.17:441][825]Cmd: EDIT PASTE
+[2024.06.04-14.43.16:547][866]Cmd: EDIT COPY
+[2024.06.04-14.43.16:786][878]Cmd: EDIT PASTE
+[2024.06.04-14.43.39:934][ 65]Cmd: EDIT COPY
+[2024.06.04-14.43.40:191][ 76]Cmd: EDIT PASTE
+[2024.06.04-14.45.30:979][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_long.IndustrialHorror_PS_like_Road_long
+[2024.06.04-14.45.30:979][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_long.IndustrialHorror_PS_like_Road_long
+[2024.06.04-14.45.30:980][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_long.IndustrialHorror_PS_like_Road_long as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_114
+[2024.06.04-14.45.32:802][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.06.04-14.45.32:805][341]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2024.06.04-14.45.32:817][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_long.IndustrialHorror_PS_like_Road_long
+[2024.06.04-14.45.32:817][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_long.IndustrialHorror_PS_like_Road_long
+[2024.06.04-14.45.32:818][341]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_long.IndustrialHorror_PS_like_Road_long as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_115
+[2024.06.04-14.45.33:937][390]Cmd: TRANSACTION UNDO
+[2024.06.04-14.45.33:937][390]LogEditorTransaction: Undo Place Objects
+[2024.06.04-14.45.43:073][816]Cmd: EDIT COPY
+[2024.06.04-14.45.43:291][827]Cmd: EDIT PASTE
+[2024.06.04-14.45.52:439][269]Cmd: TRANSACTION UNDO
+[2024.06.04-14.45.52:439][269]LogEditorTransaction: Undo Move Elements
+[2024.06.04-14.46.01:376][666]Cmd: EDIT COPY
+[2024.06.04-14.46.01:611][677]Cmd: EDIT PASTE
+[2024.06.04-14.46.04:955][830]Cmd: DELETE
+[2024.06.04-14.46.04:955][830]Cmd: ACTOR DELETE
+[2024.06.04-14.46.04:967][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.04-14.46.04:976][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.06.04-14.46.04:979][830]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.04-14.46.16:314][362]Cmd: TRANSACTION UNDO
+[2024.06.04-14.46.16:314][362]LogEditorTransaction: Undo Move Elements
+[2024.06.04-14.47.39:151][558]Cmd: EDIT COPY
+[2024.06.04-14.47.39:451][572]Cmd: EDIT PASTE
+[2024.06.04-14.48.17:970][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_curved.IndustrialHorror_PS_like_Road_curved
+[2024.06.04-14.48.17:971][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_curved.IndustrialHorror_PS_like_Road_curved
+[2024.06.04-14.48.17:971][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_curved.IndustrialHorror_PS_like_Road_curved as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_119
+[2024.06.04-14.48.19:555][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.06.04-14.48.19:558][489]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2024.06.04-14.48.19:567][489]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_curved.IndustrialHorror_PS_like_Road_curved
+[2024.06.04-14.48.19:567][489]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_curved.IndustrialHorror_PS_like_Road_curved
+[2024.06.04-14.48.19:569][489]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Road_curved.IndustrialHorror_PS_like_Road_curved as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_120
+[2024.06.04-14.48.29:175][935]LogDerivedDataCache: C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.04-14.49.19:062][365]Cmd: EDIT COPY
+[2024.06.04-14.49.19:284][375]Cmd: EDIT PASTE
+[2024.06.04-14.50.43:607][461]Cmd: EDIT COPY
+[2024.06.04-14.50.43:819][473]Cmd: EDIT PASTE
+[2024.06.04-14.50.51:313][884]Cmd: TRANSACTION UNDO
+[2024.06.04-14.50.51:313][884]LogEditorTransaction: Undo Set Location
+[2024.06.04-14.51.06:118][718]Cmd: EDIT COPY
+[2024.06.04-14.51.06:342][730]Cmd: EDIT PASTE
+[2024.06.04-14.51.22:782][568]Cmd: EDIT COPY
+[2024.06.04-14.51.23:005][580]Cmd: EDIT PASTE
+[2024.06.04-14.52.05:892][618]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.04-14.52.10:150][850]Cmd: TRANSACTION UNDO
+[2024.06.04-14.52.10:150][850]LogEditorTransaction: Undo Place Objects
+[2024.06.04-14.52.36:312][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.06.04-14.52.36:318][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-14.52.36:461][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.04-14.52.36:483][385]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.04-14.52.36:483][385]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevelEEF35AC0410F02951B800ABFE4029587.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.04-14.52.36:497][385]LogFileHelpers: Saving map 'MainLevel' took 0.053
+[2024.06.04-14.52.36:531][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.764 ms (total: 395.511 ms)
+[2024.06.04-14.52.36:649][385]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-14.52.36:650][385]LogContentValidation: Enabled validators:
+[2024.06.04-14.52.36:650][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-14.52.36:650][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-14.52.36:650][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-14.52.36:650][385]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.04-14.52.36:650][385]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.04-15.00.46:522][975]Cmd: EDIT COPY
+[2024.06.04-15.00.46:522][975]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.06.04-15.00.46:781][987]Cmd: EDIT PASTE
+[2024.06.04-15.00.50:152][151]Cmd: TRANSACTION UNDO
+[2024.06.04-15.00.50:152][151]LogEditorTransaction: Undo Set Location
+[2024.06.04-15.00.58:716][551]Cmd: EDIT COPY
+[2024.06.04-15.00.58:964][564]Cmd: EDIT PASTE
+[2024.06.04-15.01.09:112][ 50]Cmd: EDIT COPY
+[2024.06.04-15.01.09:303][ 59]Cmd: EDIT PASTE
+[2024.06.04-15.01.35:524][387]Cmd: EDIT COPY
+[2024.06.04-15.01.35:754][398]Cmd: EDIT PASTE
+[2024.06.04-15.01.51:416][173]Cmd: EDIT COPY
+[2024.06.04-15.01.51:640][185]Cmd: EDIT PASTE
+[2024.06.04-15.02.20:434][578]Cmd: EDIT COPY
+[2024.06.04-15.02.20:734][593]Cmd: EDIT PASTE
+[2024.06.04-15.02.53:491][251]Cmd: EDIT COPY
+[2024.06.04-15.02.53:861][270]Cmd: EDIT PASTE
+[2024.06.04-15.02.58:658][517]Cmd: TRANSACTION UNDO
+[2024.06.04-15.02.58:658][517]LogEditorTransaction: Undo Set Location
+[2024.06.04-15.03.30:662][110]Cmd: EDIT COPY
+[2024.06.04-15.03.30:899][121]Cmd: EDIT PASTE
+[2024.06.04-15.03.36:800][398]Cmd: EDIT COPY
+[2024.06.04-15.03.37:008][409]Cmd: EDIT PASTE
+[2024.06.04-15.03.47:514][908]Cmd: EDIT COPY
+[2024.06.04-15.03.47:766][920]Cmd: EDIT PASTE
+[2024.06.04-15.03.53:161][171]Cmd: EDIT COPY
+[2024.06.04-15.03.53:374][182]Cmd: EDIT PASTE
+[2024.06.04-15.04.08:306][881]Cmd: EDIT COPY
+[2024.06.04-15.04.08:524][891]Cmd: EDIT PASTE
+[2024.06.04-15.04.12:213][ 53]Cmd: EDIT COPY
+[2024.06.04-15.04.12:412][ 63]Cmd: EDIT PASTE
+[2024.06.04-15.04.19:506][391]Cmd: EDIT COPY
+[2024.06.04-15.04.19:728][403]Cmd: EDIT PASTE
+[2024.06.04-15.04.34:856][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.04-15.04.35:000][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.04-15.04.35:025][140]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.04-15.04.35:025][140]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevelE14FE0644347B805A542F5A7A264C2F7.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.04-15.04.35:034][140]LogFileHelpers: Saving map 'MainLevel' took 0.053
+[2024.06.04-15.04.35:053][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.748 ms (total: 593.259 ms)
+[2024.06.04-15.04.35:164][140]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.04-15.04.35:165][140]LogContentValidation: Enabled validators:
+[2024.06.04-15.04.35:165][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.04-15.04.35:165][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.04-15.04.35:165][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.04-15.04.35:165][140]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.04-15.04.35:165][140]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.04-15.04.37:608][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.06.04-15.04.39:247][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.04-15.04.39:263][396]LogStall: Shutdown...
+[2024.06.04-15.04.39:271][396]LogStall: Shutdown complete.
+[2024.06.04-15.04.39:299][396]LogSlate: Window 'GunGunRun - Unreal Editor' being destroyed
+[2024.06.04-15.04.39:418][396]Cmd: QUIT_EDITOR
+[2024.06.04-15.04.39:418][397]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.04-15.04.39:423][397]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.04-15.04.39:425][397]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.04-15.04.39:425][397]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.04-15.04.39:431][397]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-15.04.39:432][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.04-15.04.39:433][397]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.04-15.04.39:433][397]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.04-15.04.39:460][397]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.04-15.04.39:711][397]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.06.04-15.04.39:721][397]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.06.04-15.04.39:721][397]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.06.04-15.04.39:721][397]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.06.04-15.04.39:724][397]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.04-15.04.39:724][397]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.04-15.04.39:724][397]LogAudio: Display: Audio Device unregistered from world 'MainLevel'.
+[2024.06.04-15.04.39:724][397]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.06.04-15.04.39:726][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.04-15.04.39:728][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.04-15.04.39:750][397]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.06.04-15.04.39:750][397]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.04-15.04.39:751][397]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.06.04-15.04.39:756][397]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.04-15.04.39:757][397]LogExit: Preparing to exit.
+[2024.06.04-15.04.39:810][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.06.04-15.04.41:064][397]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-15.04.41:065][397]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.04-15.04.41:169][397]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.04-15.04.41:220][397]LogExit: Editor shut down
+[2024.06.04-15.04.41:225][397]LogExit: Transaction tracking system shut down
+[2024.06.04-15.04.41:879][397]LogExit: Object subsystem successfully closed.
+[2024.06.04-15.04.41:892][397]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.04-15.04.42:250][397]MemoryProfiler: Shutdown
+[2024.06.04-15.04.42:250][397]NetworkingProfiler: Shutdown
+[2024.06.04-15.04.42:250][397]LoadingProfiler: Shutdown
+[2024.06.04-15.04.42:251][397]TimingProfiler: Shutdown
+[2024.06.04-15.04.42:448][397]LogOpenImageDenoise: OIDN shutting down
+[2024.06.04-15.04.42:845][397]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.06.04-15.04.42:845][397]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEA525F08-4A4D-82F0-A34B-9AA16DD37EBB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=c936b2cd4288f2fdb7058cb20d293ce8%7Cb1c49826db8c470781cdc08c509b3bc5%7C9fc1d102-36a7-4236-a61a-dce68d7c81ca&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.06.04-15.04.42:868][397]RenderDocPlugin: plugin has been unloaded.
+[2024.06.04-15.04.42:874][397]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.06.04-15.04.42:880][397]LogXGEController: Cleaning working directory: C:/Users/sebas/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.06.04-15.04.42:887][397]LogPakFile: Destroying PakPlatformFile
+[2024.06.04-15.04.43:319][397]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.06.04-15.04.43:356][397]LogExit: Exiting.
+[2024.06.04-15.04.43:370][397]Log file closed, 06/04/24 16:04:43
