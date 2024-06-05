@@ -9647,3 +9647,1196 @@ Are you sure?
 [2024.06.05-14.04.50:376][292]AssetCheck: /Game/Assets/Map/Cargo_2_full1 Validating asset
 [2024.06.05-14.04.50:376][292]LogContentValidation: Display: Validating asset /Game/Assets/Map/Bags_11.Bags_11
 [2024.06.05-14.04.50:376][292]AssetCheck: /Game/Assets/Map/Bags_11 Validating asset
+[2024.06.05-16.09.35:584][721]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7231 Seconds] waiting for h/w. InstanceID=1
+[2024.06.05-16.09.35:974][721]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-16.09.44:679][722]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25992
+[2024.06.05-16.09.49:695][724]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.06.05-16.09.54:405][738]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{55eedb6d-562b-43ae-acc0-1ddcdef9cbe0}, Name=Speakers (Razer Barracuda X)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=9517.88
+[2024.06.05-16.09.54:405][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.05-16.09.54:419][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.05-16.09.54:712][739]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25992
+[2024.06.05-16.09.55:047][740]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{55eedb6d-562b-43ae-acc0-1ddcdef9cbe0}, Name=Speakers (Razer Barracuda X)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=38.89
+[2024.06.05-16.09.55:047][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.05-16.09.55:048][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.05-16.26.15:492][237]Cmd: EDIT COPY
+[2024.06.05-16.26.16:004][237]Cmd: EDIT PASTE
+[2024.06.05-16.26.20:230][452]Cmd: TRANSACTION UNDO
+[2024.06.05-16.26.20:230][452]LogEditorTransaction: Undo Set Location
+[2024.06.05-16.26.27:850][973]Cmd: EDIT COPY
+[2024.06.05-16.26.28:105][996]Cmd: EDIT PASTE
+[2024.06.05-16.26.46:022][411]Cmd: DELETE
+[2024.06.05-16.26.46:033][411]Cmd: ACTOR DELETE
+[2024.06.05-16.26.46:178][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-16.26.47:120][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.06.05-16.26.47:204][411]LogEditorActor: Deleted 1 Actors (1.170 secs)
+[2024.06.05-16.26.49:116][571]Cmd: EDIT COPY
+[2024.06.05-16.26.49:368][592]Cmd: EDIT PASTE
+[2024.06.05-16.27.06:824][ 50]Cmd: EDIT COPY
+[2024.06.05-16.27.07:019][ 67]Cmd: EDIT PASTE
+[2024.06.05-16.27.13:539][572]Cmd: EDIT COPY
+[2024.06.05-16.27.13:803][597]Cmd: EDIT PASTE
+[2024.06.05-16.27.21:320][187]Cmd: EDIT COPY
+[2024.06.05-16.27.21:596][207]Cmd: EDIT PASTE
+[2024.06.05-16.27.33:519][196]Cmd: EDIT COPY
+[2024.06.05-16.27.33:742][216]Cmd: EDIT PASTE
+[2024.06.05-16.27.55:811][ 10]Cmd: EDIT COPY
+[2024.06.05-16.27.56:050][ 31]Cmd: EDIT PASTE
+[2024.06.05-16.27.58:776][231]Cmd: TRANSACTION UNDO
+[2024.06.05-16.27.58:776][231]LogEditorTransaction: Undo Set Location
+[2024.06.05-16.28.04:975][625]Cmd: EDIT COPY
+[2024.06.05-16.28.05:235][646]Cmd: EDIT PASTE
+[2024.06.05-16.28.15:358][459]Cmd: EDIT COPY
+[2024.06.05-16.28.15:596][479]Cmd: EDIT PASTE
+[2024.06.05-16.28.30:858][615]Cmd: EDIT COPY
+[2024.06.05-16.28.31:080][633]Cmd: EDIT PASTE
+[2024.06.05-16.29.13:534][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.05-16.29.13:571][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.05-16.29.22:245][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto5
+[2024.06.05-16.29.22:245][191]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel_Auto5B650B45D400228CCB6AEFDBC519BCA47.tmp' to 'E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto5.umap'
+[2024.06.05-16.29.22:376][191]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/GunGunRun/GunGunRun/Saved/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto5.umap is in the /Temp path, will not scan.
+[2024.06.05-16.29.22:394][191]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto5 is in the /Temp path, will not scan.
+[2024.06.05-16.29.22:394][191]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto5 is in the /Temp path, will not scan.
+[2024.06.05-16.29.22:394][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainLevel' took 8.864
+[2024.06.05-16.29.22:394][191]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 8.864
+[2024.06.05-16.29.32:004][  6]Cmd: EDIT COPY
+[2024.06.05-16.29.32:202][ 23]Cmd: EDIT PASTE
+[2024.06.05-16.29.39:347][580]Cmd: EDIT COPY
+[2024.06.05-16.29.39:572][600]Cmd: EDIT PASTE
+[2024.06.05-16.29.52:491][659]Cmd: EDIT COPY
+[2024.06.05-16.29.52:732][680]Cmd: EDIT PASTE
+[2024.06.05-16.30.00:882][311]Cmd: EDIT COPY
+[2024.06.05-16.30.01:104][330]Cmd: EDIT PASTE
+[2024.06.05-16.30.18:233][711]Cmd: EDIT COPY
+[2024.06.05-16.30.18:450][730]Cmd: EDIT PASTE
+[2024.06.05-16.30.25:550][277]Cmd: EDIT COPY
+[2024.06.05-16.30.25:743][294]Cmd: EDIT PASTE
+[2024.06.05-16.30.37:173][200]Cmd: EDIT COPY
+[2024.06.05-16.30.37:388][219]Cmd: EDIT PASTE
+[2024.06.05-16.30.47:901][ 65]Cmd: EDIT COPY
+[2024.06.05-16.30.48:116][ 84]Cmd: EDIT PASTE
+[2024.06.05-16.31.00:365][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.06.05-16.31.00:440][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-16.31.00:526][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-16.31.00:712][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-16.31.09:511][ 84]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-16.31.09:519][ 84]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel71A356654280B57942FF2D8CCCE2D543.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-16.31.09:701][ 84]LogFileHelpers: Saving map 'MainLevel' took 9.176
+[2024.06.05-16.31.09:769][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.32 sec (total: 4:23 min)
+[2024.06.05-16.31.09:874][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-16.31.09:874][ 84]LogContentValidation: Enabled validators:
+[2024.06.05-16.31.09:874][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-16.31.09:874][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-16.31.09:874][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-16.31.09:874][ 84]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-16.31.09:875][ 84]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-16.37.42:877][544]Cmd: EDIT COPY
+[2024.06.05-16.37.43:087][563]Cmd: EDIT PASTE
+[2024.06.05-16.37.48:789][ 44]Cmd: EDIT COPY
+[2024.06.05-16.37.48:989][ 62]Cmd: EDIT PASTE
+[2024.06.05-16.37.55:651][651]Cmd: EDIT COPY
+[2024.06.05-16.37.55:844][668]Cmd: EDIT PASTE
+[2024.06.05-16.38.09:057][734]Cmd: EDIT COPY
+[2024.06.05-16.38.09:269][751]Cmd: EDIT PASTE
+[2024.06.05-16.38.11:766][943]Cmd: EDIT COPY
+[2024.06.05-16.38.12:065][968]Cmd: EDIT PASTE
+[2024.06.05-16.38.14:431][141]Cmd: EDIT COPY
+[2024.06.05-16.38.14:674][161]Cmd: EDIT PASTE
+[2024.06.05-16.38.18:394][454]Cmd: EDIT COPY
+[2024.06.05-16.38.18:647][475]Cmd: EDIT PASTE
+[2024.06.05-16.38.21:707][718]Cmd: EDIT COPY
+[2024.06.05-16.38.21:955][739]Cmd: EDIT PASTE
+[2024.06.05-16.38.43:514][502]Cmd: EDIT COPY
+[2024.06.05-16.38.43:764][524]Cmd: EDIT PASTE
+[2024.06.05-16.38.53:705][302]Cmd: EDIT COPY
+[2024.06.05-16.38.53:972][325]Cmd: EDIT PASTE
+[2024.06.05-16.38.57:166][534]Cmd: EDIT COPY
+[2024.06.05-16.38.57:403][550]Cmd: EDIT PASTE
+[2024.06.05-16.39.00:257][744]Cmd: EDIT COPY
+[2024.06.05-16.39.00:494][760]Cmd: EDIT PASTE
+[2024.06.05-16.39.15:955][ 47]Cmd: EDIT COPY
+[2024.06.05-16.39.16:165][ 66]Cmd: EDIT PASTE
+[2024.06.05-16.39.58:688][603]Cmd: EDIT COPY
+[2024.06.05-16.39.58:909][622]Cmd: EDIT PASTE
+[2024.06.05-16.40.04:060][974]Cmd: EDIT COPY
+[2024.06.05-16.40.04:286][990]Cmd: EDIT PASTE
+[2024.06.05-16.40.07:721][244]Cmd: EDIT COPY
+[2024.06.05-16.40.07:950][260]Cmd: EDIT PASTE
+[2024.06.05-16.40.18:795][164]Cmd: EDIT COPY
+[2024.06.05-16.40.19:033][185]Cmd: EDIT PASTE
+[2024.06.05-16.40.23:257][478]Cmd: EDIT COPY
+[2024.06.05-16.40.23:523][497]Cmd: EDIT PASTE
+[2024.06.05-16.40.27:405][755]Cmd: EDIT COPY
+[2024.06.05-16.40.27:646][772]Cmd: EDIT PASTE
+[2024.06.05-16.40.39:838][779]Cmd: EDIT COPY
+[2024.06.05-16.40.40:059][799]Cmd: EDIT PASTE
+[2024.06.05-16.41.31:870][ 65]Cmd: TRANSACTION UNDO
+[2024.06.05-16.41.31:870][ 65]LogEditorTransaction: Undo Set Rotation
+[2024.06.05-16.41.35:662][308]Cmd: EDIT COPY
+[2024.06.05-16.41.36:043][344]Cmd: EDIT PASTE
+[2024.06.05-16.41.54:013][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.06.05-16.41.54:042][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-16.41.54:122][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-16.41.54:265][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-16.42.09:178][866]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-16.42.09:181][866]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel7C8E72784E01B60AB5E25AA0F4313711.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-16.42.09:245][866]LogFileHelpers: Saving map 'MainLevel' took 15.125
+[2024.06.05-16.42.09:304][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.2 sec (total: 4:39 min)
+[2024.06.05-16.42.09:362][866]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-16.42.09:362][866]LogContentValidation: Enabled validators:
+[2024.06.05-16.42.09:362][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-16.42.09:362][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-16.42.09:362][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-16.42.09:362][866]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-16.42.09:362][866]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-16.44.06:166][986]Cmd: TRANSACTION UNDO
+[2024.06.05-16.44.06:166][986]LogEditorTransaction: Undo Move Elements
+[2024.06.05-16.44.11:161][319]Cmd: EDIT COPY
+[2024.06.05-16.44.11:804][380]Cmd: EDIT PASTE
+[2024.06.05-16.44.21:762][263]Cmd: EDIT COPY
+[2024.06.05-16.44.22:154][298]Cmd: EDIT PASTE
+[2024.06.05-16.44.25:298][557]Cmd: TRANSACTION UNDO
+[2024.06.05-16.44.25:298][557]LogEditorTransaction: Undo Move Elements
+[2024.06.05-16.44.28:233][727]Cmd: EDIT COPY
+[2024.06.05-16.44.28:639][756]Cmd: EDIT PASTE
+[2024.06.05-16.44.32:497][ 90]Cmd: EDIT COPY
+[2024.06.05-16.44.32:698][109]Cmd: EDIT PASTE
+[2024.06.05-16.44.37:959][574]Cmd: EDIT COPY
+[2024.06.05-16.44.38:159][593]Cmd: EDIT PASTE
+[2024.06.05-16.44.42:831][  9]Cmd: EDIT COPY
+[2024.06.05-16.44.43:095][ 32]Cmd: EDIT PASTE
+[2024.06.05-16.45.20:438][404]Cmd: EDIT COPY
+[2024.06.05-16.45.20:937][448]Cmd: EDIT PASTE
+[2024.06.05-16.45.25:036][789]Cmd: EDIT COPY
+[2024.06.05-16.45.25:246][807]Cmd: EDIT PASTE
+[2024.06.05-16.45.28:986][111]Cmd: EDIT COPY
+[2024.06.05-16.45.29:212][132]Cmd: EDIT PASTE
+[2024.06.05-16.45.34:635][604]Cmd: EDIT COPY
+[2024.06.05-16.45.34:877][625]Cmd: EDIT PASTE
+[2024.06.05-16.45.41:760][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-16.45.42:118][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-16.45.43:054][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.06.05-16.45.56:487][213]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-16.45.56:490][213]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel05A4C20641B53DCAED2A02B4CE7A7411.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-16.45.56:550][213]LogFileHelpers: Saving map 'MainLevel' took 14.434
+[2024.06.05-16.45.56:602][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.8 sec (total: 4:53 min)
+[2024.06.05-16.45.56:658][213]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-16.45.56:658][213]LogContentValidation: Enabled validators:
+[2024.06.05-16.45.56:658][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-16.45.56:658][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-16.45.56:658][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-16.45.56:658][213]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-16.45.56:658][213]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-16.46.48:904][910]Cmd: EDIT COPY
+[2024.06.05-16.46.49:588][978]Cmd: EDIT PASTE
+[2024.06.05-16.46.54:550][446]Cmd: EDIT COPY
+[2024.06.05-16.46.54:937][485]Cmd: EDIT PASTE
+[2024.06.05-16.47.00:082][980]Cmd: EDIT COPY
+[2024.06.05-16.47.00:331][  4]Cmd: EDIT PASTE
+[2024.06.05-16.47.04:495][396]Cmd: EDIT COPY
+[2024.06.05-16.47.04:742][419]Cmd: EDIT PASTE
+[2024.06.05-16.47.29:530][842]Cmd: EDIT COPY
+[2024.06.05-16.47.30:116][900]Cmd: EDIT PASTE
+[2024.06.05-16.47.33:715][240]Cmd: EDIT COPY
+[2024.06.05-16.47.34:031][272]Cmd: EDIT PASTE
+[2024.06.05-16.47.38:771][737]Cmd: EDIT COPY
+[2024.06.05-16.47.39:018][763]Cmd: EDIT PASTE
+[2024.06.05-16.47.43:069][152]Cmd: EDIT COPY
+[2024.06.05-16.47.43:323][177]Cmd: EDIT PASTE
+[2024.06.05-16.47.47:971][623]Cmd: EDIT COPY
+[2024.06.05-16.47.48:229][650]Cmd: EDIT PASTE
+[2024.06.05-16.48.21:781][888]Cmd: EDIT COPY
+[2024.06.05-16.48.22:334][941]Cmd: EDIT PASTE
+[2024.06.05-16.48.58:974][263]Cmd: EDIT COPY
+[2024.06.05-16.48.59:334][298]Cmd: EDIT PASTE
+[2024.06.05-16.49.03:974][741]Cmd: EDIT COPY
+[2024.06.05-16.49.04:286][772]Cmd: EDIT PASTE
+[2024.06.05-16.49.10:306][359]Cmd: TRANSACTION UNDO
+[2024.06.05-16.49.10:306][359]LogEditorTransaction: Undo Move Elements
+[2024.06.05-16.49.15:748][784]Cmd: EDIT COPY
+[2024.06.05-16.49.16:068][817]Cmd: EDIT PASTE
+[2024.06.05-16.49.18:946][ 85]Cmd: EDIT COPY
+[2024.06.05-16.49.19:189][110]Cmd: EDIT PASTE
+[2024.06.05-16.49.21:612][336]Cmd: TRANSACTION UNDO
+[2024.06.05-16.49.21:612][336]LogEditorTransaction: Undo Move Elements
+[2024.06.05-16.49.26:359][685]Cmd: EDIT COPY
+[2024.06.05-16.49.26:602][710]Cmd: EDIT PASTE
+[2024.06.05-16.49.30:322][ 55]Cmd: EDIT COPY
+[2024.06.05-16.49.30:540][ 77]Cmd: EDIT PASTE
+[2024.06.05-16.49.33:114][310]Cmd: EDIT COPY
+[2024.06.05-16.49.33:356][333]Cmd: EDIT PASTE
+[2024.06.05-16.49.36:157][586]Cmd: EDIT COPY
+[2024.06.05-16.49.36:366][607]Cmd: EDIT PASTE
+[2024.06.05-16.50.13:683][865]LogDerivedDataCache: C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.05-16.50.23:838][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_full1.Cargo_2_full1
+[2024.06.05-16.50.23:838][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_full1.Cargo_2_full1
+[2024.06.05-16.50.23:840][688]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_2_full1.Cargo_2_full1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_538
+[2024.06.05-16.50.25:988][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.06.05-16.50.26:021][802]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2024.06.05-16.50.26:027][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_full1.Cargo_2_full1
+[2024.06.05-16.50.26:027][802]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_full1.Cargo_2_full1
+[2024.06.05-16.50.26:029][802]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_2_full1.Cargo_2_full1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_539
+[2024.06.05-16.51.16:848][211]Cmd: EDIT COPY
+[2024.06.05-16.51.17:066][227]Cmd: EDIT PASTE
+[2024.06.05-16.51.33:452][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.51.33:452][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.51.33:453][525]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_31234.Building_31234 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_541
+[2024.06.05-16.51.34:991][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.05-16.51.34:997][631]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2024.06.05-16.51.35:005][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.51.35:005][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.51.35:007][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_31234.Building_31234 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_542
+[2024.06.05-16.52.12:043][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-16.52.12:052][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-16.52.12:127][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-16.52.12:259][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-16.52.44:211][773]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-16.52.44:213][773]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel0DEDA1BF4AE1CF57E1D7CC8637DDC14E.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-16.52.44:387][773]LogFileHelpers: Saving map 'MainLevel' took 32.261
+[2024.06.05-16.52.44:401][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.3 sec (total: 5:26 min)
+[2024.06.05-16.52.44:473][773]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-16.52.44:473][773]LogContentValidation: Enabled validators:
+[2024.06.05-16.52.44:473][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-16.52.44:473][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-16.52.44:473][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-16.52.44:473][773]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-16.52.44:473][773]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-16.52.59:314][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-16.52.59:516][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-16.52.59:630][232]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.06.05-16.52.59:631][232]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.06.05-16.52.59:681][232]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.05-16.52.59:842][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160468s)
+[2024.06.05-16.52.59:842][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainLevel.MainLevel to /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.160865s)
+[2024.06.05-16.52.59:859][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.06.05-16.52.59:938][232]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.05-16.53.00:298][232]LogPlayLevel: PIE: World Init took: (0.435366s)
+[2024.06.05-16.53.00:513][232]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-16.53.00:515][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.05-16.53.00:515][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-16.53.00:530][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-16.53.00:530][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-16.53.00:530][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-16.53.00:531][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-16.53.00:553][232]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Barracuda X)
+[2024.06.05-16.53.00:581][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-16.53.00:581][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-16.53.00:587][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-16.53.00:616][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.06.05-16.53.00:616][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.06.05-16.53.00:617][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.06.05-16.53.00:617][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.06.05-16.53.00:627][232]LogInit: FAudioDevice initialized with ID 2.
+[2024.06.05-16.53.00:627][232]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2024.06.05-16.53.00:628][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.05-16.53.00:641][232]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2024.06.05-16.53.08:204][232]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.05-16.53.08:370][232]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.06.05-17.53.08
+[2024.06.05-16.53.08:391][232]LogWorld: Bringing up level for play took: 0.075286
+[2024.06.05-16.53.08:486][232]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.06.05-16.53.09:341][232]PIE: Server logged in
+[2024.06.05-16.53.09:343][232]PIE: Play in editor total start time 9.892 seconds.
+[2024.06.05-16.54.22:358][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-16.54.22:358][358]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.05-16.54.22:501][358]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-16.54.22:554][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-16.54.22:581][358]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.05-16.54.22:581][358]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.05-16.54.22:665][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-16.54.22:684][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-16.54.22:691][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-16.54.22:704][358]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.06.05-16.54.22:704][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.05-16.54.22:706][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.06.05-16.54.22:848][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.06.05-16.54.22:998][359]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.06.05-16.54.26:206][548]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.54.55:009][ 83]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.00:895][415]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.27:965][994]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.31:167][174]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.35:775][441]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.41:700][787]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.50:027][272]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.55.52:815][428]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.56.00:248][853]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.56.19:409][982]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Building_31234) ...
+[2024.06.05-16.56.54:020][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-16.56.54:093][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Building_31234] ([1] browsable assets)...
+[2024.06.05-16.56.54:100][ 34]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/Building_31234.Building_31234]
+[2024.06.05-16.56.54:100][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Building_31234]
+[2024.06.05-16.56.54:100][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Building_31234" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Building_31234.uasset" SILENT=true
+[2024.06.05-16.56.54:921][ 34]LogSavePackage: Moving output files for package: /Game/Assets/Map/Building_31234
+[2024.06.05-16.56.54:924][ 34]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Building_3123429DDDB294F6A25D7137D9E874B59D00A.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Building_31234.uasset'
+[2024.06.05-16.56.54:960][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 939.307 ms (total: 5:27 min)
+[2024.06.05-16.56.55:016][ 34]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-16.56.55:016][ 34]LogContentValidation: Enabled validators:
+[2024.06.05-16.56.55:016][ 34]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-16.56.55:016][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-16.56.55:016][ 34]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-16.56.55:016][ 34]LogContentValidation: Display: Validating asset /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.56.55:016][ 34]AssetCheck: /Game/Assets/Map/Building_31234 Validating asset
+[2024.06.05-16.58.34:950][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-16.58.35:024][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Map/Building_31234] ([1] browsable assets)...
+[2024.06.05-16.58.35:024][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Building_31234]
+[2024.06.05-16.58.35:024][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Building_31234" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Building_31234.uasset" SILENT=true
+[2024.06.05-16.58.35:583][944]LogSavePackage: Moving output files for package: /Game/Assets/Map/Building_31234
+[2024.06.05-16.58.35:586][944]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Building_31234B0CEE28A46A096D4E4FD1BB9CB7A7AE0.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Building_31234.uasset'
+[2024.06.05-16.58.35:607][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 656.566 ms (total: 5:27 min)
+[2024.06.05-16.58.35:666][944]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-16.58.35:666][944]LogContentValidation: Enabled validators:
+[2024.06.05-16.58.35:666][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-16.58.35:666][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-16.58.35:666][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-16.58.35:666][944]LogContentValidation: Display: Validating asset /Game/Assets/Map/Building_31234.Building_31234
+[2024.06.05-16.58.35:666][944]AssetCheck: /Game/Assets/Map/Building_31234 Validating asset
+[2024.06.05-16.58.36:610][997]LogSlate: Window 'Building_31234' being destroyed
+[2024.06.05-16.58.36:629][997]LogSlate: Window 'Building_31234' being destroyed
+[2024.06.05-16.58.37:073][997]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-16.58.37:073][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-16.58.37:131][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.06.05-16.59.15:404][ 24]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-16.59.15:448][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-16.59.15:471][ 24]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.05-16.59.15:488][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017671s)
+[2024.06.05-16.59.15:488][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainLevel.MainLevel to /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.017707s)
+[2024.06.05-16.59.15:496][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.06.05-16.59.15:499][ 24]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.05-16.59.15:512][ 24]LogPlayLevel: PIE: World Init took: (0.013679s)
+[2024.06.05-16.59.15:561][ 24]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-16.59.15:561][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.05-16.59.15:561][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-16.59.15:561][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-16.59.15:561][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-16.59.15:561][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-16.59.15:562][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-16.59.15:580][ 24]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Barracuda X)
+[2024.06.05-16.59.15:580][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-16.59.15:580][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-16.59.15:580][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-16.59.15:581][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.05-16.59.15:581][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.05-16.59.15:581][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.05-16.59.15:581][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.05-16.59.15:582][ 24]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.05-16.59.15:582][ 24]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2024.06.05-16.59.15:582][ 24]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.05-16.59.15:586][ 24]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.05-16.59.15:596][ 24]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.06.05-17.59.15
+[2024.06.05-16.59.15:597][ 24]LogWorld: Bringing up level for play took: 0.011162
+[2024.06.05-16.59.15:598][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2024.06.05-16.59.15:654][ 24]PIE: Server logged in
+[2024.06.05-16.59.15:655][ 24]PIE: Play in editor total start time 0.217 seconds.
+[2024.06.05-17.00.59:903][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-17.00.59:903][513]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.05-17.00.59:903][513]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.00.59:906][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.00.59:906][513]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.05-17.00.59:906][513]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.05-17.00.59:909][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-17.00.59:911][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.00.59:920][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-17.00.59:921][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.05-17.00.59:921][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.05-17.00.59:923][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.05-17.00.59:929][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.05-17.01.00:079][514]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2024.06.05-17.03.08:198][347]Cmd: DELETE
+[2024.06.05-17.03.08:198][347]Cmd: ACTOR DELETE
+[2024.06.05-17.03.08:205][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.08:214][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.05-17.03.08:222][347]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.03.09:362][452]Cmd: DELETE
+[2024.06.05-17.03.09:362][452]Cmd: ACTOR DELETE
+[2024.06.05-17.03.09:369][452]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.09:379][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.09:383][452]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.06.05-17.03.10:406][547]Cmd: DELETE
+[2024.06.05-17.03.10:406][547]Cmd: ACTOR DELETE
+[2024.06.05-17.03.10:413][547]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.10:421][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.10:426][547]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.03.11:549][651]Cmd: DELETE
+[2024.06.05-17.03.11:549][651]Cmd: ACTOR DELETE
+[2024.06.05-17.03.11:556][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.11:566][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.11:570][651]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.03.12:589][745]Cmd: DELETE
+[2024.06.05-17.03.12:589][745]Cmd: ACTOR DELETE
+[2024.06.05-17.03.12:595][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.12:604][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.12:609][745]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.03.14:206][896]Cmd: DELETE
+[2024.06.05-17.03.14:206][896]Cmd: ACTOR DELETE
+[2024.06.05-17.03.14:214][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.14:222][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.14:227][896]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.06.05-17.03.32:864][504]Cmd: DELETE
+[2024.06.05-17.03.32:864][504]Cmd: ACTOR DELETE
+[2024.06.05-17.03.32:871][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.32:881][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.05-17.03.32:887][504]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.03.34:265][632]Cmd: DELETE
+[2024.06.05-17.03.34:265][632]Cmd: ACTOR DELETE
+[2024.06.05-17.03.34:272][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.34:282][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.34:286][632]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.06.05-17.03.59:870][948]Cmd: DELETE
+[2024.06.05-17.03.59:870][948]Cmd: ACTOR DELETE
+[2024.06.05-17.03.59:878][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.03.59:888][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.03.59:898][948]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.06.05-17.04.01:307][ 82]Cmd: DELETE
+[2024.06.05-17.04.01:307][ 82]Cmd: ACTOR DELETE
+[2024.06.05-17.04.01:313][ 82]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.01:323][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.05-17.04.01:328][ 82]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.06.05-17.04.02:784][220]Cmd: DELETE
+[2024.06.05-17.04.02:784][220]Cmd: ACTOR DELETE
+[2024.06.05-17.04.02:791][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.02:799][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.04.02:804][220]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.04.19:333][735]Cmd: DELETE
+[2024.06.05-17.04.19:333][735]Cmd: ACTOR DELETE
+[2024.06.05-17.04.19:341][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.19:351][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.05-17.04.19:358][735]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.04.20:604][852]Cmd: DELETE
+[2024.06.05-17.04.20:604][852]Cmd: ACTOR DELETE
+[2024.06.05-17.04.20:611][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.20:619][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.05-17.04.20:624][852]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.04.21:678][948]Cmd: DELETE
+[2024.06.05-17.04.21:678][948]Cmd: ACTOR DELETE
+[2024.06.05-17.04.21:685][948]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.21:694][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.04.21:699][948]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.04.22:396][  9]Cmd: DELETE
+[2024.06.05-17.04.22:396][  9]Cmd: ACTOR DELETE
+[2024.06.05-17.04.22:404][  9]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.22:414][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.04.22:419][  9]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.04.23:520][110]Cmd: DELETE
+[2024.06.05-17.04.23:520][110]Cmd: ACTOR DELETE
+[2024.06.05-17.04.23:527][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.23:536][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.04.23:542][110]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.04.24:605][209]Cmd: DELETE
+[2024.06.05-17.04.24:606][209]Cmd: ACTOR DELETE
+[2024.06.05-17.04.24:613][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.04.24:620][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.04.24:626][209]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.06.05-17.04.40:679][632]Cmd: TRANSACTION UNDO
+[2024.06.05-17.04.40:679][632]LogEditorTransaction: Undo Set Location
+[2024.06.05-17.05.02:304][483]Cmd: DELETE
+[2024.06.05-17.05.02:304][483]Cmd: ACTOR DELETE
+[2024.06.05-17.05.02:312][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.02:321][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.06.05-17.05.02:331][483]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.06.05-17.05.04:330][672]Cmd: DELETE
+[2024.06.05-17.05.04:330][672]Cmd: ACTOR DELETE
+[2024.06.05-17.05.04:337][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.04:347][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.05-17.05.04:352][672]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.05.05:434][773]Cmd: DELETE
+[2024.06.05-17.05.05:434][773]Cmd: ACTOR DELETE
+[2024.06.05-17.05.05:442][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.05:453][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.05:458][773]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.05.06:441][862]Cmd: DELETE
+[2024.06.05-17.05.06:441][862]Cmd: ACTOR DELETE
+[2024.06.05-17.05.06:448][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.06:457][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.05.06:462][862]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.05.11:842][350]Cmd: DELETE
+[2024.06.05-17.05.11:842][350]Cmd: ACTOR DELETE
+[2024.06.05-17.05.11:849][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.11:860][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.05.11:865][350]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.05.12:851][440]Cmd: DELETE
+[2024.06.05-17.05.12:851][440]Cmd: ACTOR DELETE
+[2024.06.05-17.05.12:858][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.12:868][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.12:874][440]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.05.16:425][769]Cmd: DELETE
+[2024.06.05-17.05.16:426][769]Cmd: ACTOR DELETE
+[2024.06.05-17.05.16:432][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.16:441][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.16:447][769]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.05.18:685][986]Cmd: DELETE
+[2024.06.05-17.05.18:685][986]Cmd: ACTOR DELETE
+[2024.06.05-17.05.18:693][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.18:703][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.06.05-17.05.18:707][986]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.05.20:379][146]Cmd: DELETE
+[2024.06.05-17.05.20:379][146]Cmd: ACTOR DELETE
+[2024.06.05-17.05.20:388][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.20:398][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.20:402][146]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.05.34:160][408]Cmd: DELETE
+[2024.06.05-17.05.34:160][408]Cmd: ACTOR DELETE
+[2024.06.05-17.05.34:166][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.34:178][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.34:185][408]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.05.35:425][527]Cmd: DELETE
+[2024.06.05-17.05.35:425][527]Cmd: ACTOR DELETE
+[2024.06.05-17.05.35:425][527]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.06.05-17.05.35:431][527]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.35:443][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.35:448][527]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.05.41:388][ 79]Cmd: DELETE
+[2024.06.05-17.05.41:388][ 79]Cmd: ACTOR DELETE
+[2024.06.05-17.05.41:394][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.41:406][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.41:411][ 79]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.05.49:596][822]Cmd: DELETE
+[2024.06.05-17.05.49:596][822]Cmd: ACTOR DELETE
+[2024.06.05-17.05.49:604][822]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.49:612][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.49:618][822]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.05.58:692][676]Cmd: DELETE
+[2024.06.05-17.05.58:692][676]Cmd: ACTOR DELETE
+[2024.06.05-17.05.58:700][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.58:710][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.05.58:716][676]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.05.59:728][770]Cmd: DELETE
+[2024.06.05-17.05.59:728][770]Cmd: ACTOR DELETE
+[2024.06.05-17.05.59:736][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.05.59:747][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.05.59:751][770]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.06.00:608][850]Cmd: DELETE
+[2024.06.05-17.06.00:608][850]Cmd: ACTOR DELETE
+[2024.06.05-17.06.00:614][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.00:623][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.00:628][850]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.06.05-17.06.02:203][996]Cmd: DELETE
+[2024.06.05-17.06.02:203][996]Cmd: ACTOR DELETE
+[2024.06.05-17.06.02:210][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.02:220][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.02:225][996]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.06.03:010][ 69]Cmd: DELETE
+[2024.06.05-17.06.03:011][ 69]Cmd: ACTOR DELETE
+[2024.06.05-17.06.03:018][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.03:028][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.03:033][ 69]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.06.03:788][139]Cmd: DELETE
+[2024.06.05-17.06.03:788][139]Cmd: ACTOR DELETE
+[2024.06.05-17.06.03:796][139]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.03:806][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.03:810][139]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.06.05-17.06.05:253][271]Cmd: DELETE
+[2024.06.05-17.06.05:253][271]Cmd: ACTOR DELETE
+[2024.06.05-17.06.05:259][271]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.05:270][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.05:275][271]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.06.06:610][393]Cmd: DELETE
+[2024.06.05-17.06.06:610][393]Cmd: ACTOR DELETE
+[2024.06.05-17.06.06:616][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.06:628][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.06.06:634][393]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.06.08:990][616]Cmd: DELETE
+[2024.06.05-17.06.08:990][616]Cmd: ACTOR DELETE
+[2024.06.05-17.06.08:998][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.09:010][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.09:015][616]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.06.10:250][734]Cmd: DELETE
+[2024.06.05-17.06.10:250][734]Cmd: ACTOR DELETE
+[2024.06.05-17.06.10:258][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.10:271][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.10:275][734]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.06.05-17.06.11:289][830]Cmd: DELETE
+[2024.06.05-17.06.11:289][830]Cmd: ACTOR DELETE
+[2024.06.05-17.06.11:295][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.11:308][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.05-17.06.11:312][830]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.06.29:726][508]Cmd: DELETE
+[2024.06.05-17.06.29:726][508]Cmd: ACTOR DELETE
+[2024.06.05-17.06.29:734][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.29:746][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.06.29:754][508]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.06.05-17.06.34:080][907]Cmd: DELETE
+[2024.06.05-17.06.34:080][907]Cmd: ACTOR DELETE
+[2024.06.05-17.06.34:087][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.34:098][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.34:105][907]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.06.05-17.06.43:975][842]Cmd: DELETE
+[2024.06.05-17.06.43:975][842]Cmd: ACTOR DELETE
+[2024.06.05-17.06.43:983][842]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.43:995][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.06.44:001][842]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.06.05-17.06.45:333][972]Cmd: DELETE
+[2024.06.05-17.06.45:333][972]Cmd: ACTOR DELETE
+[2024.06.05-17.06.45:340][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.45:352][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.45:356][972]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.06.47:411][183]Cmd: TRANSACTION UNDO
+[2024.06.05-17.06.47:411][183]LogEditorTransaction: Undo Delete Elements
+[2024.06.05-17.06.49:902][333]Cmd: DELETE
+[2024.06.05-17.06.49:902][333]Cmd: ACTOR DELETE
+[2024.06.05-17.06.49:908][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.49:919][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.49:925][333]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.06.50:961][405]Cmd: DELETE
+[2024.06.05-17.06.50:961][405]Cmd: ACTOR DELETE
+[2024.06.05-17.06.50:967][405]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.50:979][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.06.50:983][405]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.06.05-17.06.51:986][499]Cmd: DELETE
+[2024.06.05-17.06.51:986][499]Cmd: ACTOR DELETE
+[2024.06.05-17.06.51:994][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.52:006][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.52:011][499]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.06.05-17.06.52:926][587]Cmd: DELETE
+[2024.06.05-17.06.52:926][587]Cmd: ACTOR DELETE
+[2024.06.05-17.06.52:932][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.06.52:944][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.06.52:949][587]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.06.05-17.07.40:291][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.07.40:291][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.07.40:293][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_543
+[2024.06.05-17.07.41:672][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.07.41:680][986]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.06.05-17.07.41:685][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.07.41:685][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.07.41:688][986]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_544
+[2024.06.05-17.07.56:430][318]Cmd: TRANSACTION UNDO
+[2024.06.05-17.07.56:430][318]LogEditorTransaction: Undo Clicking on Elements
+[2024.06.05-17.08.34:436][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.08.34:436][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.08.34:438][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_545
+[2024.06.05-17.08.42:852][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.05-17.08.42:858][ 82]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2024.06.05-17.08.42:880][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.08.42:880][ 82]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.08.42:881][ 82]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_546
+[2024.06.05-17.08.53:594][989]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.06.05-17.08.53:594][989]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.06.05-17.08.53:595][989]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_547
+[2024.06.05-17.08.59:208][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.08.59:214][435]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2024.06.05-17.08.59:220][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.06.05-17.08.59:220][435]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.06.05-17.08.59:222][435]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_548
+[2024.06.05-17.09.02:604][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.09.02:604][645]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.09.02:606][645]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_549
+[2024.06.05-17.09.09:072][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.09.09:077][203]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2024.06.05-17.09.09:084][203]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.09.09:084][203]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.06.05-17.09.09:086][203]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_550
+[2024.06.05-17.09.12:106][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.09.12:107][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.09.12:108][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_551
+[2024.06.05-17.09.21:509][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.09.21:512][ 91]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.05-17.09.21:528][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.09.21:528][ 91]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.06.05-17.09.21:530][ 91]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_552
+[2024.06.05-17.09.26:728][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.06.05-17.09.26:729][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.06.05-17.09.26:730][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Bags_11.Bags_11 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_553
+[2024.06.05-17.09.30:747][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.05-17.09.30:752][759]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2024.06.05-17.09.30:758][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.06.05-17.09.30:758][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.06.05-17.09.30:761][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Bags_11.Bags_11 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_554
+[2024.06.05-17.09.45:851][711]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Ventilation_112.Ventilation_112
+[2024.06.05-17.09.45:851][711]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Ventilation_112.Ventilation_112
+[2024.06.05-17.09.45:853][711]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Ventilation_112.Ventilation_112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_555
+[2024.06.05-17.09.50:876][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.09.50:884][124]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2024.06.05-17.09.50:890][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Ventilation_112.Ventilation_112
+[2024.06.05-17.09.50:890][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Ventilation_112.Ventilation_112
+[2024.06.05-17.09.50:892][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Ventilation_112.Ventilation_112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_556
+[2024.06.05-17.10.54:390][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.05-17.10.54:390][214]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.05-17.10.54:392][214]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_557
+[2024.06.05-17.10.56:269][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.05-17.10.56:279][281]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2024.06.05-17.10.56:460][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.05-17.10.56:460][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.05-17.10.56:461][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_558
+[2024.06.05-17.10.57:387][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.06.05-17.10.57:390][371]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2024.06.05-17.10.57:398][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.05-17.10.57:398][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock
+[2024.06.05-17.10.57:400][371]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Roadblock.IndustrialHorror_PS_like_Roadblock as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_559
+[2024.06.05-17.13.16:857][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-17.13.16:901][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-17.13.16:901][131]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.05-17.13.16:918][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016243s)
+[2024.06.05-17.13.16:918][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainLevel.MainLevel to /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.016275s)
+[2024.06.05-17.13.16:928][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.05-17.13.16:937][131]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.05-17.13.16:938][131]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2024.06.05-17.13.16:989][131]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-17.13.16:989][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.05-17.13.16:989][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-17.13.16:989][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-17.13.16:989][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-17.13.16:989][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-17.13.16:990][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-17.13.17:009][131]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Barracuda X)
+[2024.06.05-17.13.17:009][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-17.13.17:009][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-17.13.17:009][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-17.13.17:010][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.06.05-17.13.17:010][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.06.05-17.13.17:011][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.06.05-17.13.17:011][131]LogInit: FAudioDevice initialized with ID 4.
+[2024.06.05-17.13.17:011][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.06.05-17.13.17:011][131]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2024.06.05-17.13.17:011][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.05-17.13.17:015][131]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.05-17.13.17:024][131]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2024.06.05-18.13.17
+[2024.06.05-17.13.17:025][131]LogWorld: Bringing up level for play took: 0.010049
+[2024.06.05-17.13.17:026][131]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2024.06.05-17.13.17:085][131]PIE: Server logged in
+[2024.06.05-17.13.17:085][131]PIE: Play in editor total start time 0.193 seconds.
+[2024.06.05-17.13.42:423][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-17.13.42:423][175]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.05-17.13.42:423][175]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.13.42:426][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.13.42:426][175]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.05-17.13.42:426][175]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.05-17.13.42:428][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-17.13.42:431][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.13.42:446][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-17.13.42:447][175]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.05-17.13.42:447][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.05-17.13.42:449][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.05-17.13.42:456][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.05-17.13.42:600][176]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.06.05-17.14.08:236][461]Cmd: EDIT COPY
+[2024.06.05-17.14.08:524][486]Cmd: EDIT PASTE
+[2024.06.05-17.14.58:598][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.14.58:598][397]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.14.58:599][397]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_long.Fence_long as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_561
+[2024.06.05-17.15.00:834][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.05-17.15.00:842][500]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2024.06.05-17.15.01:358][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.01:358][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.01:359][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_long.Fence_long as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_562
+[2024.06.05-17.15.02:048][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.15.02:050][555]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.05-17.15.02:177][562]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.02:177][562]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.02:178][562]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_long.Fence_long as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_563
+[2024.06.05-17.15.03:391][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.15.03:394][659]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.06.05-17.15.03:401][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.03:401][659]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.03:403][659]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_long.Fence_long as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_564
+[2024.06.05-17.15.31:136][922]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.47:055][710]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.15.49:319][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.15.49:385][828]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Fence_long] ([1] browsable assets)...
+[2024.06.05-17.15.49:392][828]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/Fence_long.Fence_long]
+[2024.06.05-17.15.49:392][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Fence_long]
+[2024.06.05-17.15.49:392][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Fence_long" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_long.uasset" SILENT=true
+[2024.06.05-17.15.49:871][828]LogSavePackage: Moving output files for package: /Game/Assets/Map/Fence_long
+[2024.06.05-17.15.49:873][828]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Fence_long43F00CEC4DEB1BE9B2720195A8B0CEDF.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_long.uasset'
+[2024.06.05-17.15.49:940][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 620.841 ms (total: 5:28 min)
+[2024.06.05-17.15.50:003][828]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.15.50:003][828]LogContentValidation: Enabled validators:
+[2024.06.05-17.15.50:003][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.15.50:003][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.15.50:003][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.15.50:003][828]LogContentValidation: Display: Validating asset /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.15.50:003][828]AssetCheck: /Game/Assets/Map/Fence_long Validating asset
+[2024.06.05-17.15.54:399][951]LogSlate: Window 'Fence_long' being destroyed
+[2024.06.05-17.15.54:417][951]LogSlate: Window 'Fence_long' being destroyed
+[2024.06.05-17.15.54:680][951]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.15.54:680][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.15.54:700][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: ================================================
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Total job queries 871, among them cache hits 680 (78.07%), DDC hits 158 (18.14%), Duplicates 6 (0.69%)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 165 distinct outputs (89.19%)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: RAM used: 5.67 MiB of 819.20 MiB budget. Usage: 0.69%
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Shaders Compiled: 27
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Average time worker was idle: 2831.52 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Job execution time: average 2.00 s, max 6.05 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Job life time (pending + execution): average 2.07 s, max 6.16
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Shader code size: average 35.545 KiB, min 4.719 KiB, max 87.402 KiB
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.76 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.14%
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Average processing rate: 1.37 jobs/sec
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Total thread time: 13.966 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Total thread preprocess time: 9.655 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Percentage time preprocessing: 69.13%
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Effective parallelization: 0.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.69 sec, max 0.71 sec, min 0.67 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    5 times, average 0.50 sec, max 0.99 sec, min 0.25 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.47 sec, max 0.65 sec, min 0.35 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.01% of total time (compiled    5 times, average 0.50 sec, max 0.99 sec, min 0.25 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.84% of total time (compiled    5 times, average 0.47 sec, max 0.65 sec, min 0.35 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.49% of total time (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.65% of total time (compiled    6 times, average 0.34 sec, max 0.79 sec, min 0.19 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.37% of total time (compiled    5 times, average 0.32 sec, max 0.63 sec, min 0.20 sec)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: === Material stats ===
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Materials Translated:    258
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Material Total Translate Time: 0.71 s
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Material Translation Only: 0.28 s (39%)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Material DDC Serialization Only: 0.04 s (5%)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: Material Cache Hits: 14 (5%)
+[2024.06.05-17.15.56:729][127]LogShaderCompilers: Display: ================================================
+[2024.06.05-17.16.04:228][765]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.16.15:634][320]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.16.24:632][742]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.16.36:629][394]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.16.44:337][750]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.16.55:651][362]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.17.05:563][923]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.17.28:481][ 94]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.17.32:775][305]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_long) ...
+[2024.06.05-17.17.38:948][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.17.39:023][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Fence_long] ([1] browsable assets)...
+[2024.06.05-17.17.39:031][661]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/Fence_long.Fence_long]
+[2024.06.05-17.17.39:031][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Fence_long]
+[2024.06.05-17.17.39:031][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Fence_long" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_long.uasset" SILENT=true
+[2024.06.05-17.17.39:592][661]LogSavePackage: Moving output files for package: /Game/Assets/Map/Fence_long
+[2024.06.05-17.17.39:595][661]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Fence_longC76389BE4DE362EEB3D322AECB50020E.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_long.uasset'
+[2024.06.05-17.17.39:618][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 670.149 ms (total: 5:29 min)
+[2024.06.05-17.17.39:671][661]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.17.39:671][661]LogContentValidation: Enabled validators:
+[2024.06.05-17.17.39:671][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.17.39:671][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.17.39:671][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.17.39:672][661]LogContentValidation: Display: Validating asset /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.17.39:672][661]AssetCheck: /Game/Assets/Map/Fence_long Validating asset
+[2024.06.05-17.17.40:151][686]LogSlate: Window 'Fence_long' being destroyed
+[2024.06.05-17.17.40:159][686]LogSlate: Window 'Fence_long' being destroyed
+[2024.06.05-17.17.40:280][686]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.17.40:280][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.17.40:347][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.06.05-17.18.24:242][324]Cmd: EDIT COPY
+[2024.06.05-17.18.24:626][359]Cmd: EDIT PASTE
+[2024.06.05-17.18.27:612][583]Cmd: EDIT CUT
+[2024.06.05-17.18.27:620][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.18.27:635][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.05-17.18.27:640][583]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.06.05-17.18.29:403][755]Cmd: EDIT PASTE
+[2024.06.05-17.18.31:115][912]Cmd: TRANSACTION UNDO
+[2024.06.05-17.18.31:115][912]LogEditorTransaction: Undo Paste
+[2024.06.05-17.18.31:541][920]Cmd: TRANSACTION UNDO
+[2024.06.05-17.18.31:541][920]LogEditorTransaction: Undo Cut
+[2024.06.05-17.18.32:092][948]Cmd: TRANSACTION UNDO
+[2024.06.05-17.18.32:092][948]LogEditorTransaction: Undo Set Location
+[2024.06.05-17.18.41:476][717]Cmd: EDIT COPY
+[2024.06.05-17.18.41:770][743]Cmd: EDIT PASTE
+[2024.06.05-17.18.52:768][695]Cmd: EDIT COPY
+[2024.06.05-17.18.53:008][716]Cmd: EDIT PASTE
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: ================================================
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Total job queries 901, among them cache hits 688 (76.36%), DDC hits 168 (18.65%), Duplicates 6 (0.67%)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Tracking 207 distinct input hashes that result in 175 distinct outputs (84.54%)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: RAM used: 5.93 MiB of 819.20 MiB budget. Usage: 0.72%
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Shaders Compiled: 39
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Average time worker was idle: 1840.90 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 6.05 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Job life time (pending + execution): average 1.66 s, max 6.16
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Shader code size: average 35.025 KiB, min 4.719 KiB, max 87.402 KiB
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.37 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.05%
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Average processing rate: 1.67 jobs/sec
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Total thread time: 17.739 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Total thread preprocess time: 9.961 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Percentage time preprocessing: 56.15%
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Effective parallelization: 0.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.69 sec, max 0.71 sec, min 0.67 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.45 sec, max 0.65 sec, min 0.33 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.73% of total time (compiled    9 times, average 0.45 sec, max 0.65 sec, min 0.33 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 20.56% of total time (compiled    9 times, average 0.41 sec, max 0.99 sec, min 0.22 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.28% of total time (compiled    8 times, average 0.32 sec, max 0.79 sec, min 0.19 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.99% of total time (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.61% of total time (compiled    7 times, average 0.29 sec, max 0.63 sec, min 0.20 sec)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: === Material stats ===
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Materials Translated:    262
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Material Total Translate Time: 1.43 s
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Material Translation Only: 0.28 s (20%)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Material DDC Serialization Only: 0.04 s (3%)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: Material Cache Hits: 14 (5%)
+[2024.06.05-17.18.56:735][  9]LogShaderCompilers: Display: ================================================
+[2024.06.05-17.19.08:395][ 37]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/Fence_short.Fence_short
+[2024.06.05-17.19.24:387][913]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_short) ...
+[2024.06.05-17.19.27:521][ 47]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/Fence_long.Fence_long
+[2024.06.05-17.19.32:409][279]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_short) ...
+[2024.06.05-17.19.34:025][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.19.34:103][368]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Fence_short] ([1] browsable assets)...
+[2024.06.05-17.19.34:111][368]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/Fence_short.Fence_short]
+[2024.06.05-17.19.34:111][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Fence_short]
+[2024.06.05-17.19.34:111][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Fence_short" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_short.uasset" SILENT=true
+[2024.06.05-17.19.34:332][368]LogSavePackage: Moving output files for package: /Game/Assets/Map/Fence_short
+[2024.06.05-17.19.34:334][368]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Fence_short764DFF82405E03E885E6CCAB6E98D12F.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_short.uasset'
+[2024.06.05-17.19.34:356][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 331.279 ms (total: 5:29 min)
+[2024.06.05-17.19.34:418][368]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.19.34:419][368]LogContentValidation: Enabled validators:
+[2024.06.05-17.19.34:419][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.19.34:419][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.19.34:419][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.19.34:419][368]LogContentValidation: Display: Validating asset /Game/Assets/Map/Fence_short.Fence_short
+[2024.06.05-17.19.34:419][368]AssetCheck: /Game/Assets/Map/Fence_short Validating asset
+[2024.06.05-17.19.35:696][435]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.19.42:249][754]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Fence_corner) ...
+[2024.06.05-17.19.44:440][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.19.44:519][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Map/Fence_corner] ([1] browsable assets)...
+[2024.06.05-17.19.44:526][876]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner]
+[2024.06.05-17.19.44:526][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Map/Fence_corner]
+[2024.06.05-17.19.44:526][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Map/Fence_corner" FILE="E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_corner.uasset" SILENT=true
+[2024.06.05-17.19.44:774][876]LogSavePackage: Moving output files for package: /Game/Assets/Map/Fence_corner
+[2024.06.05-17.19.44:776][876]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/Fence_corner5CC432C94179AD08E4730D816658CF03.tmp' to 'E:/GunGunRun/GunGunRun/Content/Assets/Map/Fence_corner.uasset'
+[2024.06.05-17.19.44:799][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 359.694 ms (total: 5:29 min)
+[2024.06.05-17.19.44:851][876]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.19.44:851][876]LogContentValidation: Enabled validators:
+[2024.06.05-17.19.44:851][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.19.44:851][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.19.44:851][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.19.44:851][876]LogContentValidation: Display: Validating asset /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.19.44:852][876]AssetCheck: /Game/Assets/Map/Fence_corner Validating asset
+[2024.06.05-17.19.51:696][268]LogSlate: Window 'Fence_corner' being destroyed
+[2024.06.05-17.19.51:702][268]LogSlate: Window 'Fence_corner' being destroyed
+[2024.06.05-17.19.51:834][268]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.19.51:834][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.19.51:969][268]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.19.51:969][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.19.52:096][268]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-17.19.52:096][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-17.19.52:120][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.05-17.19.54:615][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.06.05-17.19.54:621][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.19.54:690][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-17.19.54:827][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.20.25:969][449]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-17.20.25:972][449]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevelC4BD61884F3CF78EF2ADBF822DFF820D.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-17.20.26:044][449]LogFileHelpers: Saving map 'MainLevel' took 31.356
+[2024.06.05-17.20.26:096][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.4 sec (total: 6:01 min)
+[2024.06.05-17.20.26:156][449]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.20.26:156][449]LogContentValidation: Enabled validators:
+[2024.06.05-17.20.26:156][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.20.26:156][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.20.26:156][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.20.26:156][449]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-17.20.26:156][449]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-17.20.50:995][772]Cmd: EDIT COPY
+[2024.06.05-17.20.51:293][799]Cmd: EDIT PASTE
+[2024.06.05-17.20.56:302][228]Cmd: EDIT COPY
+[2024.06.05-17.20.56:561][251]Cmd: EDIT PASTE
+[2024.06.05-17.21.10:921][356]Cmd: EDIT COPY
+[2024.06.05-17.21.11:264][387]Cmd: EDIT PASTE
+[2024.06.05-17.21.33:257][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.05-17.21.33:267][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.21.33:327][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-17.21.33:464][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.22.03:066][300]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-17.22.03:069][300]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel23024D174283E383E0F7C0964A2469BF.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-17.22.03:130][300]LogFileHelpers: Saving map 'MainLevel' took 29.805
+[2024.06.05-17.22.03:181][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.9 sec (total: 6:31 min)
+[2024.06.05-17.22.03:246][300]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.22.03:246][300]LogContentValidation: Enabled validators:
+[2024.06.05-17.22.03:246][300]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.22.03:246][300]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.22.03:246][300]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.22.03:246][300]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-17.22.03:246][300]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: ================================================
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Total job queries 905, among them cache hits 688 (76.02%), DDC hits 168 (18.56%), Duplicates 6 (0.66%)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Tracking 211 distinct input hashes that result in 177 distinct outputs (83.89%)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: RAM used: 5.97 MiB of 819.20 MiB budget. Usage: 0.73%
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Shaders Compiled: 43
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100%)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Average time worker was idle: 1661.55 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 6.05 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Job life time (pending + execution): average 1.59 s, max 6.16
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Shader code size: average 34.864 KiB, min 4.719 KiB, max 87.402 KiB
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.44 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.04%
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Average processing rate: 1.76 jobs/sec
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Total thread time: 19.127 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Total thread preprocess time: 10.002 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Percentage time preprocessing: 52.29%
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 0.69 sec, max 0.71 sec, min 0.67 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.46 sec, max 0.65 sec, min 0.33 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.84% of total time (compiled   10 times, average 0.46 sec, max 0.65 sec, min 0.33 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 20.83% of total time (compiled   10 times, average 0.40 sec, max 0.99 sec, min 0.22 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.60% of total time (compiled    9 times, average 0.31 sec, max 0.79 sec, min 0.19 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.15% of total time (compiled    8 times, average 0.29 sec, max 0.63 sec, min 0.20 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.04% of total time (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: === Material stats ===
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Materials Translated:    263
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Material Total Translate Time: 1.43 s
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Material Translation Only: 0.28 s (20%)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Material DDC Serialization Only: 0.04 s (3%)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: Material Cache Hits: 14 (5%)
+[2024.06.05-17.22.03:254][300]LogShaderCompilers: Display: ================================================
+[2024.06.05-17.22.58:003][386]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.22.58:003][386]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.22.58:004][386]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_572
+[2024.06.05-17.22.58:218][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.06.05-17.22.58:221][390]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.05-17.22.58:389][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.22.58:389][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.22.58:390][394]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_573
+[2024.06.05-17.23.01:350][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.05-17.23.01:353][599]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.06.05-17.23.01:359][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.23.01:359][599]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner
+[2024.06.05-17.23.01:361][599]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Fence_corner.Fence_corner as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_574
+[2024.06.05-17.23.58:026][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.23.58:093][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-17.23.58:231][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.24.28:996][175]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.05-17.24.29:004][175]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevelA023DEDF4750324D24FF57B6D4697579.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.05-17.24.29:068][175]LogFileHelpers: Saving map 'MainLevel' took 30.976
+[2024.06.05-17.24.29:120][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.0 sec (total: 7:02 min)
+[2024.06.05-17.24.29:178][175]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.05-17.24.29:178][175]LogContentValidation: Enabled validators:
+[2024.06.05-17.24.29:178][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.05-17.24.29:178][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.05-17.24.29:178][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.05-17.24.29:178][175]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.05-17.24.29:180][175]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.05-17.50.13:675][979]LogDerivedDataCache: C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.06.05-17.50.42:918][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.05-17.50.42:919][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.05-17.50.42:920][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_575
+[2024.06.05-17.50.45:401][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.06.05-17.50.45:408][461]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2024.06.05-17.50.45:850][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.05-17.50.45:850][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.05-17.50.45:851][491]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_576
+[2024.06.05-17.50.48:856][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.50.48:859][749]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.05-17.50.48:865][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.05-17.50.48:865][749]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1
+[2024.06.05-17.50.48:868][749]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_1.IndustrialHorror_PS_like_Liquid_reservoir_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_577
+[2024.06.05-17.50.51:651][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.05-17.50.51:651][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.05-17.50.51:652][951]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_578
+[2024.06.05-17.50.52:334][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.50.52:339][976]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2024.06.05-17.50.54:009][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.05-17.50.54:009][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.05-17.50.54:010][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_579
+[2024.06.05-17.50.56:354][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.05-17.50.56:356][229]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2024.06.05-17.50.56:363][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.05-17.50.56:363][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.05-17.50.56:365][229]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_580
+[2024.06.05-17.50.57:347][306]Cmd: DELETE
+[2024.06.05-17.50.57:347][306]Cmd: ACTOR DELETE
+[2024.06.05-17.50.57:353][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.05-17.50.57:367][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.50.57:372][306]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.06.05-17.51.12:555][336]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.05-17.51.12:555][336]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.05-17.51.12:557][336]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_581
+[2024.06.05-17.51.21:901][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.06.05-17.51.21:908][109]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2024.06.05-17.51.21:914][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.05-17.51.21:914][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.05-17.51.21:916][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_582
+[2024.06.05-17.51.45:371][ 93]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.45:372][ 93]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.45:373][ 93]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_81.Building_81 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_583
+[2024.06.05-17.51.46:297][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.51.46:302][126]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2024.06.05-17.51.46:757][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.46:757][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.46:759][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_81.Building_81 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_584
+[2024.06.05-17.51.47:732][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.06.05-17.51.47:735][210]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.05-17.51.48:140][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.48:140][237]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.48:142][237]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_81.Building_81 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_585
+[2024.06.05-17.51.49:334][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.51.49:336][320]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.06.05-17.51.49:709][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.49:709][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.49:710][345]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_81.Building_81 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_586
+[2024.06.05-17.51.51:472][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.51.51:475][491]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2024.06.05-17.51.51:481][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.51:481][491]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_81.Building_81
+[2024.06.05-17.51.51:484][491]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_81.Building_81 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_587
+[2024.06.05-17.52.18:237][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.05-17.52.18:237][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.05-17.52.18:238][549]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_512.Building_512 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_588
+[2024.06.05-17.52.22:328][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.52.22:333][831]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2024.06.05-17.52.22:340][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.05-17.52.22:340][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.05-17.52.22:342][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_512.Building_512 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_589
+[2024.06.05-17.52.49:497][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_41.Building_41
+[2024.06.05-17.52.49:497][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_41.Building_41
+[2024.06.05-17.52.49:498][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_41.Building_41 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_590
+[2024.06.05-17.52.53:459][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.52.53:465][206]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.06.05-17.52.53:472][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_41.Building_41
+[2024.06.05-17.52.53:472][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_41.Building_41
+[2024.06.05-17.52.53:474][206]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_41.Building_41 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_591
+[2024.06.05-17.53.25:063][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.05-17.53.25:063][932]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.05-17.53.25:065][932]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1112.Building_1112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_592
+[2024.06.05-17.53.27:650][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.05-17.53.27:655][ 64]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2024.06.05-17.53.28:110][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.05-17.53.28:110][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.05-17.53.28:111][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1112.Building_1112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_593
+[2024.06.05-17.53.29:031][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.53.29:034][171]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2024.06.05-17.53.29:041][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.05-17.53.29:041][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.05-17.53.29:045][171]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1112.Building_1112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_594
+[2024.06.05-17.54.10:207][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.05-17.54.10:217][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-17.54.10:275][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.05-17.54.10:413][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
