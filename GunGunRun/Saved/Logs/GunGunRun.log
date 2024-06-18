@@ -1230,3 +1230,303 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.18-13.08.27:814][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.18-13.08.27:814][ 38]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.06.18-13.08.27:815][ 38]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-13.09.19:027][482]LogTexture: Display: Building textures: /Game/Assets/Map/texture/Liquid_reservoir_2.Liquid_reservoir_2 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.06.18-13.09.19:029][482]LogStaticMesh: Display: Building static mesh IndustrialHorror_PS_like_Liquid_reservoir_2 (Required Memory Estimate: 0.514097 MB)...
+[2024.06.18-13.09.19:036][482]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.18-13.09.19:123][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.18-13.09.19:124][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.18-13.09.19:125][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_751
+[2024.06.18-13.09.23:042][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.06.18-13.09.23:044][670]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.06.18-13.09.23:055][670]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.18-13.09.23:055][670]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.06.18-13.09.23:057][670]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_752
+[2024.06.18-13.09.25:176][780]Cmd: DELETE
+[2024.06.18-13.09.25:176][780]Cmd: ACTOR DELETE
+[2024.06.18-13.09.25:202][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.06.18-13.09.25:209][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.06.18-13.09.25:211][780]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.06.18-13.09.32:141][133]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Cooling_tower.IndustrialHorror_PS_like_Cooling_tower
+[2024.06.18-13.09.32:371][133]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2024.06.18-13.09.32:399][133]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.06.18-13.09.37:148][251]LogSlate: Window 'IndustrialHorror_PS_like_Cooling_tower' being destroyed
+[2024.06.18-13.09.37:170][251]LogSlate: Window 'IndustrialHorror_PS_like_Cooling_tower' being destroyed
+[2024.06.18-13.09.37:220][251]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.18-13.09.37:220][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-13.09.37:951][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.06.18-13.09.42:359][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.06.18-13.09.42:363][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-13.09.42:492][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.18-13.09.42:591][449]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-13.09.42:592][449]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel5EC1FD7F4B4780861E34DC9C9DC11E44.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-13.09.42:605][449]LogFileHelpers: Saving map 'MainLevel' took 0.132
+[2024.06.18-13.09.42:628][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 264.726 ms (total: 1.31 sec)
+[2024.06.18-13.09.42:745][449]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-13.09.42:745][449]LogContentValidation: Enabled validators:
+[2024.06.18-13.09.42:745][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-13.09.42:745][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-13.09.42:745][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-13.09.42:745][449]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-13.09.42:745][449]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-13.10.42:933][778]LogShaderCompilers: Display: ================================================
+[2024.06.18-13.10.42:933][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.18-13.10.42:933][778]LogShaderCompilers: Display: Total job queries 219, among them cache hits 67 (30.59%), DDC hits 139 (63.47%), Duplicates 7 (3.20%)
+[2024.06.18-13.10.42:933][778]LogShaderCompilers: Display: Tracking 145 distinct input hashes that result in 136 distinct outputs (93.79%)
+[2024.06.18-13.10.42:933][778]LogShaderCompilers: Display: RAM used: 4.96 MiB of 819.20 MiB budget. Usage: 0.61%
+[2024.06.18-13.10.42:933][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.11 s
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Job execution time: average 2.61 s, max 2.78 s
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Job life time (pending + execution): average 2.71 s, max 2.88
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Shader code size: average 31.714 KiB, min 27.621 KiB, max 34.199 KiB
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.88 s
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Average processing rate: 2.08 jobs/sec
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Total thread time: 4.141 s
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Total thread preprocess time: 4.526 s
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Percentage time preprocessing: 109.31%
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.89 sec, max 0.90 sec, min 0.88 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.67 sec, max 0.69 sec, min 0.65 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 43.07% of total time (compiled    2 times, average 0.89 sec, max 0.90 sec, min 0.88 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 32.28% of total time (compiled    2 times, average 0.67 sec, max 0.69 sec, min 0.65 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.34% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.31% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: === Material stats ===
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Materials Translated:    131
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: Material Cache Hits: 20 (15%)
+[2024.06.18-13.10.42:934][778]LogShaderCompilers: Display: ================================================
+[2024.06.18-13.18.08:611][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.18.08:611][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.18.08:613][238]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_101.Building_101 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_753
+[2024.06.18-13.18.17:700][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.06.18-13.18.17:704][661]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.06.18-13.18.17:715][661]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.18.17:715][661]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.18.17:717][661]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_101.Building_101 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_754
+[2024.06.18-13.18.55:188][508]Cmd: TRANSACTION UNDO
+[2024.06.18-13.18.55:188][508]LogEditorTransaction: Undo Snap Object to View
+[2024.06.18-13.18.59:218][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.06.18-13.18.59:223][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-13.18.59:354][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.06.18-13.18.59:447][685]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-13.18.59:449][685]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel817D98A2461B2F19AEE88894046400A9.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-13.18.59:459][685]LogFileHelpers: Saving map 'MainLevel' took 0.127
+[2024.06.18-13.18.59:480][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.187 ms (total: 1.56 sec)
+[2024.06.18-13.18.59:590][685]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-13.18.59:590][685]LogContentValidation: Enabled validators:
+[2024.06.18-13.18.59:590][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-13.18.59:590][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-13.18.59:590][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-13.18.59:590][685]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-13.18.59:591][685]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-13.19.52:581][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.18-13.19.52:589][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-13.19.52:724][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.06.18-13.19.52:823][356]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-13.19.52:824][356]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevelBD615A1249F7782311421092F4F8EE0E.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-13.19.52:838][356]LogFileHelpers: Saving map 'MainLevel' took 0.134
+[2024.06.18-13.19.52:858][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.292 ms (total: 1.83 sec)
+[2024.06.18-13.19.52:962][356]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-13.19.52:962][356]LogContentValidation: Enabled validators:
+[2024.06.18-13.19.52:962][356]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-13.19.52:963][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-13.19.52:963][356]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-13.19.52:963][356]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-13.19.52:963][356]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-13.19.53:829][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.18-13.19.53:838][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.18-13.19.53:863][403]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.18-13.19.53:889][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026273s)
+[2024.06.18-13.19.53:889][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainLevel.MainLevel to /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.026341s)
+[2024.06.18-13.19.53:895][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.06.18-13.19.53:896][403]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.18-13.19.53:898][403]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2024.06.18-13.19.53:907][403]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.18-13.19.53:907][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.18-13.19.53:907][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.18-13.19.53:907][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.18-13.19.53:907][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.18-13.19.53:907][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.18-13.19.53:909][403]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.18-13.19.53:953][403]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.18-13.19.53:953][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.18-13.19.53:953][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.18-13.19.53:953][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.18-13.19.53:955][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.06.18-13.19.53:955][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.06.18-13.19.53:956][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.06.18-13.19.53:956][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.06.18-13.19.53:956][403]LogInit: FAudioDevice initialized with ID 3.
+[2024.06.18-13.19.53:956][403]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2024.06.18-13.19.53:957][403]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.18-13.19.53:960][403]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.18-13.19.53:975][403]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.06.18-14.19.53
+[2024.06.18-13.19.53:975][403]LogWorld: Bringing up level for play took: 0.015083
+[2024.06.18-13.19.53:978][403]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.06.18-13.19.53:991][403]PIE: Server logged in
+[2024.06.18-13.19.53:993][403]PIE: Play in editor total start time 0.157 seconds.
+[2024.06.18-13.21.11:426][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.18-13.21.11:427][491]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.18-13.21.11:427][491]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.06.18-13.21.11:430][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-13.21.11:430][491]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.18-13.21.11:430][491]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.18-13.21.11:434][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.18-13.21.11:437][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-13.21.11:443][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.18-13.21.11:443][491]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.06.18-13.21.11:443][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.18-13.21.11:445][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.06.18-13.21.11:451][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.18-13.21.11:457][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.06.18-13.21.11:536][492]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.06.18-13.22.15:221][709]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.06.18-13.22.22:546][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.06.18-13.22.22:546][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.06.18-13.22.22:548][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_755
+[2024.06.18-13.22.22:549][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_755
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: ================================================
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Total job queries 223, among them cache hits 68 (30.49%), DDC hits 140 (62.78%), Duplicates 7 (3.14%)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 138 distinct outputs (93.24%)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: RAM used: 5.00 MiB of 819.20 MiB budget. Usage: 0.61%
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Average time worker was idle: 766.84 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.11 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Job execution time: average 2.24 s, max 2.78 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Job life time (pending + execution): average 2.34 s, max 2.88
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Shader code size: average 31.536 KiB, min 27.621 KiB, max 34.281 KiB
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.19 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Average processing rate: 1.91 jobs/sec
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Total thread time: 5.3 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Total thread preprocess time: 4.589 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Percentage time preprocessing: 86.58%
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Effective parallelization: 1.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.82 sec, max 0.90 sec, min 0.67 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.61 sec, max 0.69 sec, min 0.49 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 46.22% of total time (compiled    3 times, average 0.82 sec, max 0.90 sec, min 0.67 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 34.52% of total time (compiled    3 times, average 0.61 sec, max 0.69 sec, min 0.49 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.64% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.62% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: === Material stats ===
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Materials Translated:    131
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Material Translation Only: 0.07 s (34%)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: Material Cache Hits: 20 (15%)
+[2024.06.18-13.22.43:136][152]LogShaderCompilers: Display: ================================================
+[2024.06.18-13.31.10:702][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.06.18-13.31.10:819][990]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto1
+[2024.06.18-13.31.10:819][990]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel_Auto1E095CCF64771D5E987D199BD4495BE1C.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto1.umap'
+[2024.06.18-13.31.10:821][990]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/Autosaves/Game/FirstPerson/Maps/MainLevel_Auto1.umap is in the /Temp path, will not scan.
+[2024.06.18-13.31.10:821][990]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/MainLevel' took 0.127
+[2024.06.18-13.31.10:821][990]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.127
+[2024.06.18-13.40.20:373][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.06.18-13.40.20:379][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-13.40.20:506][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.06.18-13.40.20:600][538]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-13.40.20:601][538]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel7AC7A5374B05EB43BA2A7A88BEBA6B06.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-13.40.20:611][538]LogFileHelpers: Saving map 'MainLevel' took 0.125
+[2024.06.18-13.40.20:620][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.755 ms (total: 2.07 sec)
+[2024.06.18-13.40.20:728][538]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-13.40.20:728][538]LogContentValidation: Enabled validators:
+[2024.06.18-13.40.20:728][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-13.40.20:728][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-13.40.20:728][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-13.40.20:728][538]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-13.40.20:729][538]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-13.40.22:776][659]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.18-13.40.22:785][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.18-13.40.22:785][659]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.18-13.40.22:814][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030130s)
+[2024.06.18-13.40.22:814][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainLevel.MainLevel to /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.030195s)
+[2024.06.18-13.40.22:820][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.18-13.40.22:822][659]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.06.18-13.40.22:823][659]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2024.06.18-13.40.22:833][659]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.18-13.40.22:833][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.18-13.40.22:833][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.18-13.40.22:833][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.18-13.40.22:833][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.18-13.40.22:833][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.18-13.40.22:835][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.18-13.40.22:878][659]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.06.18-13.40.22:879][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.18-13.40.22:879][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.18-13.40.22:879][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.18-13.40.22:880][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.06.18-13.40.22:880][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.06.18-13.40.22:882][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.06.18-13.40.22:882][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.06.18-13.40.22:882][659]LogInit: FAudioDevice initialized with ID 4.
+[2024.06.18-13.40.22:882][659]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2024.06.18-13.40.22:882][659]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.18-13.40.22:885][659]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.06.18-13.40.22:900][659]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.06.18-14.40.22
+[2024.06.18-13.40.22:900][659]LogWorld: Bringing up level for play took: 0.014238
+[2024.06.18-13.40.22:902][659]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.06.18-13.40.22:917][659]PIE: Server logged in
+[2024.06.18-13.40.22:918][659]PIE: Play in editor total start time 0.136 seconds.
+[2024.06.18-13.42.00:803][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.18-13.42.00:803][972]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainLevel
+[2024.06.18-13.42.00:803][972]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.06.18-13.42.00:806][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-13.42.00:806][972]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.18-13.42.00:806][972]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.18-13.42.00:809][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.18-13.42.00:813][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.18-13.42.00:818][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.18-13.42.00:820][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.06.18-13.42.00:820][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.18-13.42.00:822][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.06.18-13.42.00:835][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.18-13.42.00:918][973]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.06.18-13.42.03:516][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-13.42.03:720][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.06.18-13.42.03:818][993]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-13.42.03:819][993]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevelF59CAA8843807A6703FB55A0CA030F74.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-13.42.03:831][993]LogFileHelpers: Saving map 'MainLevel' took 0.132
+[2024.06.18-13.42.03:842][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 326.361 ms (total: 2.40 sec)
+[2024.06.18-13.42.03:958][993]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-13.42.03:958][993]LogContentValidation: Enabled validators:
+[2024.06.18-13.42.03:958][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-13.42.03:958][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-13.42.03:958][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-13.42.03:958][993]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-13.42.03:959][993]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
