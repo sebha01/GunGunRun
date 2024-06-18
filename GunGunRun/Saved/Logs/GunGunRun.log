@@ -1056,3 +1056,33 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.18-12.53.42:305][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.18-12.53.42:305][461]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.06.18-12.53.42:305][461]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-12.56.51:718][776]LogStaticMesh: Display: Building static mesh Building_91 (Required Memory Estimate: 1.244882 MB)...
+[2024.06.18-12.56.51:737][776]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.51:786][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.51:786][776]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.51:787][776]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_91.Building_91 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_731
+[2024.06.18-12.56.52:892][836]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 259 triangles, Building_91
+[2024.06.18-12.56.56:596][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.18-12.56.56:598][ 58]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.06.18-12.56.57:248][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.57:248][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.57:249][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_91.Building_91 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_733
+[2024.06.18-12.56.58:678][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.18-12.56.58:679][178]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.06.18-12.56.58:689][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.58:689][178]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_91.Building_91
+[2024.06.18-12.56.58:690][178]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_91.Building_91 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_736
+[2024.06.18-12.57.42:326][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.06.18-12.57.42:330][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-12.57.42:465][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.06.18-12.57.42:561][434]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-12.57.42:562][434]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel310446BA473091E097D85A86B2E27C1E.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-12.57.42:575][434]LogFileHelpers: Saving map 'MainLevel' took 0.134
+[2024.06.18-12.57.42:607][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.508 ms (total: 551.311 ms)
+[2024.06.18-12.57.42:703][434]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-12.57.42:703][434]LogContentValidation: Enabled validators:
+[2024.06.18-12.57.42:703][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-12.57.42:703][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-12.57.42:703][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-12.57.42:703][434]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-12.57.42:703][434]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
