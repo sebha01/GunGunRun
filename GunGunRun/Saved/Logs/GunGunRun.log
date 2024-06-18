@@ -1155,3 +1155,78 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.18-13.02.36:547][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.18-13.02.36:547][288]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.06.18-13.02.36:547][288]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.06.18-13.04.29:016][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.18-13.04.29:016][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.18-13.04.29:017][537]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1112.Building_1112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_737
+[2024.06.18-13.04.31:661][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.06.18-13.04.31:662][692]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2024.06.18-13.04.31:673][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.18-13.04.31:673][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1112.Building_1112
+[2024.06.18-13.04.31:675][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1112.Building_1112 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_740
+[2024.06.18-13.04.33:409][792]Cmd: TRANSACTION UNDO
+[2024.06.18-13.04.33:409][792]LogEditorTransaction: Undo Place Objects
+[2024.06.18-13.04.37:404][998]LogStaticMesh: Display: Building static mesh Building_512 (Required Memory Estimate: 0.496767 MB)...
+[2024.06.18-13.04.37:414][998]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/Building_512.Building_512
+[2024.06.18-13.04.37:537][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.18-13.04.37:537][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.18-13.04.37:538][999]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_512.Building_512 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_741
+[2024.06.18-13.04.41:406][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.06.18-13.04.41:408][225]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.06.18-13.04.41:419][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.18-13.04.41:419][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_512.Building_512
+[2024.06.18-13.04.41:421][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_512.Building_512 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_742
+[2024.06.18-13.06.06:043][656]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.06.06:043][656]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.06.06:044][656]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_101.Building_101 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_743
+[2024.06.18-13.06.07:811][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.06.18-13.06.07:814][752]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.06.18-13.06.08:342][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.06.08:342][779]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.06.08:343][779]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_101.Building_101 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_744
+[2024.06.18-13.06.09:485][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.06.18-13.06.09:487][839]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.06.18-13.06.09:502][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.06.09:502][839]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_101.Building_101
+[2024.06.18-13.06.09:504][839]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_101.Building_101 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_745
+[2024.06.18-13.06.38:216][402]LogStaticMesh: Display: Building static mesh Building_7123 (Required Memory Estimate: 0.100183 MB)...
+[2024.06.18-13.06.38:216][402]LogTexture: Display: Building textures: /Game/Assets/Map/texture/Building_4.Building_4 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.06.18-13.06.38:223][402]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.38:400][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.38:400][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.38:401][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_7123.Building_7123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_746
+[2024.06.18-13.06.39:299][450]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x105 sparse distance field, 1.5Mb total, 0.0Mb always loaded, 51% occupied, 19 triangles, Building_7123
+[2024.06.18-13.06.40:505][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.06.18-13.06.40:507][515]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2024.06.18-13.06.40:984][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.40:984][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.40:985][539]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_7123.Building_7123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_747
+[2024.06.18-13.06.46:728][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.18-13.06.46:729][849]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.06.18-13.06.46:739][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.46:739][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.06.18-13.06.46:741][849]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_7123.Building_7123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_748
+[2024.06.18-13.06.51:359][ 88]LogStaticMesh: Display: Building static mesh Building_6123 (Required Memory Estimate: 1.761756 MB)...
+[2024.06.18-13.06.51:384][ 88]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.18-13.06.51:492][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.18-13.06.51:492][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.18-13.06.51:492][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_749
+[2024.06.18-13.06.52:591][143]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 368 triangles, Building_6123
+[2024.06.18-13.06.57:457][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.06.18-13.06.57:458][406]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.06.18-13.06.57:468][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.18-13.06.57:468][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.06.18-13.06.57:471][406]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_750
+[2024.06.18-13.08.27:448][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.06.18-13.08.27:452][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.18-13.08.27:578][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.06.18-13.08.27:673][ 38]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.06.18-13.08.27:673][ 38]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel0970BDFD41EAF92A2C1DC59D9485806A.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.06.18-13.08.27:686][ 38]LogFileHelpers: Saving map 'MainLevel' took 0.128
+[2024.06.18-13.08.27:706][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 254.010 ms (total: 1.04 sec)
+[2024.06.18-13.08.27:814][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2024.06.18-13.08.27:814][ 38]LogContentValidation: Enabled validators:
+[2024.06.18-13.08.27:814][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.18-13.08.27:814][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.18-13.08.27:814][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.18-13.08.27:814][ 38]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.06.18-13.08.27:815][ 38]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
