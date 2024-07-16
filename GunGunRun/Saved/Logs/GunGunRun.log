@@ -1420,3 +1420,76 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.07.16-14.01.49:396][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.07.16-14.01.49:397][ 49]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.07.16-14.01.49:398][ 49]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.07.16-14.05.27:573][759]LogDerivedDataCache: C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.07.16-14.06.44:816][943]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.16-14.07.01:610][746]Cmd: DELETE
+[2024.07.16-14.07.01:610][746]Cmd: ACTOR DELETE
+[2024.07.16-14.07.01:622][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:623][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:623][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:624][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:624][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:625][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:626][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:627][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.07.01:654][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.07.16-14.07.01:657][746]LogEditorActor: Deleted 8 Actors (0.047 secs)
+[2024.07.16-14.08.02:866][764]LogTexture: Display: Building textures: /Game/Assets/Map/texture/Cooling_tower.Cooling_tower (TFO_AutoDXT, 128x256 x1x1x1) (Required Memory Estimate: 5.22909 MB), EncodeSpeed: Fast
+[2024.07.16-14.08.38:390][523]Cmd: DELETE
+[2024.07.16-14.08.38:390][523]Cmd: ACTOR DELETE
+[2024.07.16-14.08.38:402][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.38:402][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.38:403][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.38:403][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.38:403][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.38:415][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.07.16-14.08.38:418][523]LogEditorActor: Deleted 5 Actors (0.028 secs)
+[2024.07.16-14.08.43:437][781]Cmd: DELETE
+[2024.07.16-14.08.43:437][781]Cmd: ACTOR DELETE
+[2024.07.16-14.08.43:447][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.43:448][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.43:449][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.08.43:462][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.16-14.08.43:464][781]LogEditorActor: Deleted 3 Actors (0.027 secs)
+[2024.07.16-14.09.26:808][ 28]Cmd: DELETE
+[2024.07.16-14.09.26:808][ 28]Cmd: ACTOR DELETE
+[2024.07.16-14.09.26:820][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:821][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:821][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:822][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:822][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:823][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:824][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:824][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:825][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:826][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.09.26:836][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.07.16-14.09.26:841][ 28]LogEditorActor: Deleted 10 Actors (0.033 secs)
+[2024.07.16-14.10.50:343][194]Cmd: DELETE
+[2024.07.16-14.10.50:343][194]Cmd: ACTOR DELETE
+[2024.07.16-14.10.50:353][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:354][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:354][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:355][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:355][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:356][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:356][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:357][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:357][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:358][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.16-14.10.50:371][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.16-14.10.50:374][194]LogEditorActor: Deleted 10 Actors (0.031 secs)
+[2024.07.16-14.11.25:555][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.07.16-14.11.25:558][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.16-14.11.25:695][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.07.16-14.11.25:790][901]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.07.16-14.11.25:790][901]LogSavePackage: Moving '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Saved/MainLevel094BB8CE4BC3F492492A0686A8063690.tmp' to '../../../../../../UnrealEngineProjects/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.07.16-14.11.25:798][901]LogFileHelpers: Saving map 'MainLevel' took 0.128
+[2024.07.16-14.11.25:807][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 248.050 ms (total: 535.390 ms)
+[2024.07.16-14.11.25:916][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.07.16-14.11.25:916][901]LogContentValidation: Enabled validators:
+[2024.07.16-14.11.25:916][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.07.16-14.11.25:916][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.07.16-14.11.25:916][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.07.16-14.11.25:916][901]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.07.16-14.11.25:916][901]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
