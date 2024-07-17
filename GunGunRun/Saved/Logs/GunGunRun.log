@@ -1341,3 +1341,53 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.07.17-12.53.01:382][221]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.07.17-12.53.01:417][221]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
 [2024.07.17-12.53.01:443][221]LogAutomationController: Ignoring very large delta of 43.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-12.53.25:960][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wide_wood.Box_wide_wood
+[2024.07.17-12.53.25:960][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wide_wood.Box_wide_wood
+[2024.07.17-12.53.25:961][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Box_wide_wood.Box_wide_wood as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_763
+[2024.07.17-12.53.26:968][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.07.17-12.53.26:969][461]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.07.17-12.53.26:973][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wide_wood.Box_wide_wood
+[2024.07.17-12.53.26:973][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wide_wood.Box_wide_wood
+[2024.07.17-12.53.26:977][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Box_wide_wood.Box_wide_wood as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_764
+[2024.07.17-12.53.58:149][178]Cmd: DUPLICATE
+[2024.07.17-12.53.58:149][178]Cmd: ACTOR DUPLICATE
+[2024.07.17-12.54.19:736][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wood12.Box_wood12
+[2024.07.17-12.54.19:736][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wood12.Box_wood12
+[2024.07.17-12.54.19:738][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Box_wood12.Box_wood12 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_768
+[2024.07.17-12.54.20:264][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.17-12.54.20:265][ 81]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.07.17-12.54.20:271][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wood12.Box_wood12
+[2024.07.17-12.54.20:271][ 81]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Box_wood12.Box_wood12
+[2024.07.17-12.54.20:273][ 81]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Box_wood12.Box_wood12 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_769
+[2024.07.17-12.55.03:522][831]Cmd: DUPLICATE
+[2024.07.17-12.55.03:522][831]Cmd: ACTOR DUPLICATE
+[2024.07.17-12.55.17:645][162]Cmd: DUPLICATE
+[2024.07.17-12.55.17:645][162]Cmd: ACTOR DUPLICATE
+[2024.07.17-12.55.29:649][303]Cmd: DUPLICATE
+[2024.07.17-12.55.29:649][303]Cmd: ACTOR DUPLICATE
+[2024.07.17-12.55.44:451][643]Cmd: EDIT COPY
+[2024.07.17-12.55.44:738][672]Cmd: EDIT PASTE
+[2024.07.17-12.55.55:359][645]Cmd: EDIT COPY
+[2024.07.17-12.55.55:593][669]Cmd: EDIT PASTE
+[2024.07.17-12.56.12:021][172]Cmd: EDIT COPY
+[2024.07.17-12.56.12:369][207]Cmd: EDIT PASTE
+[2024.07.17-12.56.22:780][138]Cmd: EDIT COPY
+[2024.07.17-12.56.23:373][195]Cmd: EDIT PASTE
+[2024.07.17-12.56.36:678][392]Cmd: EDIT COPY
+[2024.07.17-12.56.36:891][412]Cmd: EDIT PASTE
+[2024.07.17-12.57.01:140][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.07.17-12.57.01:144][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-12.57.01:224][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.17-12.57.01:363][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.57.39:244][695]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.07.17-12.57.39:247][695]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevelE0ABC34047FBBE137146BF8451D010AA.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.07.17-12.57.39:314][695]LogFileHelpers: Saving map 'MainLevel' took 38.092
+[2024.07.17-12.57.39:320][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.1 sec (total: 1:56 min)
+[2024.07.17-12.57.39:396][695]LogContentValidation: Display: Starting to validate 1 assets
+[2024.07.17-12.57.39:396][695]LogContentValidation: Enabled validators:
+[2024.07.17-12.57.39:396][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.07.17-12.57.39:396][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.07.17-12.57.39:396][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.07.17-12.57.39:396][695]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.07.17-12.57.39:397][695]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.07.17-12.57.39:425][695]LogAutomationController: Ignoring very large delta of 38.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
