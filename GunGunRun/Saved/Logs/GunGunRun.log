@@ -1391,3 +1391,62 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.07.17-12.57.39:396][695]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
 [2024.07.17-12.57.39:397][695]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
 [2024.07.17-12.57.39:425][695]LogAutomationController: Ignoring very large delta of 38.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-13.18.39:500][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_empty.Cargo_2_empty
+[2024.07.17-13.18.39:500][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_empty.Cargo_2_empty
+[2024.07.17-13.18.39:501][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_2_empty.Cargo_2_empty as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_791
+[2024.07.17-13.18.39:893][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.17-13.18.39:894][412]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2024.07.17-13.18.39:900][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_empty.Cargo_2_empty
+[2024.07.17-13.18.39:900][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_2_empty.Cargo_2_empty
+[2024.07.17-13.18.39:902][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_2_empty.Cargo_2_empty as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_792
+[2024.07.17-13.19.24:438][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_open1.Cargo_1_open1
+[2024.07.17-13.19.24:438][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_open1.Cargo_1_open1
+[2024.07.17-13.19.24:439][453]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_1_open1.Cargo_1_open1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_793
+[2024.07.17-13.19.24:897][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.07.17-13.19.24:898][497]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2024.07.17-13.19.24:903][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_open1.Cargo_1_open1
+[2024.07.17-13.19.24:903][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_open1.Cargo_1_open1
+[2024.07.17-13.19.24:905][497]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_1_open1.Cargo_1_open1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_794
+[2024.07.17-13.20.16:575][198]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_close1.Cargo_1_close1
+[2024.07.17-13.20.16:575][198]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_close1.Cargo_1_close1
+[2024.07.17-13.20.16:576][198]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_1_close1.Cargo_1_close1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_795
+[2024.07.17-13.20.17:237][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.07.17-13.20.17:238][252]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2024.07.17-13.20.17:243][252]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_close1.Cargo_1_close1
+[2024.07.17-13.20.17:243][252]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Cargo_1_close1.Cargo_1_close1
+[2024.07.17-13.20.17:245][252]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Cargo_1_close1.Cargo_1_close1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_796
+[2024.07.17-13.20.44:009][517]Cmd: EDIT COPY
+[2024.07.17-13.20.44:345][551]Cmd: EDIT PASTE
+[2024.07.17-13.20.52:887][285]Cmd: EDIT COPY
+[2024.07.17-13.20.53:150][305]Cmd: EDIT PASTE
+[2024.07.17-13.21.08:501][623]Cmd: EDIT COPY
+[2024.07.17-13.21.08:734][644]Cmd: EDIT PASTE
+[2024.07.17-13.22.12:039][449]Cmd: EDIT COPY
+[2024.07.17-13.22.12:039][449]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.07.17-13.22.12:282][473]Cmd: EDIT PASTE
+[2024.07.17-13.23.18:593][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.07.17-13.23.18:593][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.07.17-13.23.18:594][378]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_801
+[2024.07.17-13.23.19:818][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.07.17-13.23.19:820][462]LogEditorActor: Deleted 0 Actors (0.011 secs)
+[2024.07.17-13.23.19:825][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.07.17-13.23.19:825][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2
+[2024.07.17-13.23.19:827][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Liquid_reservoir_2.IndustrialHorror_PS_like_Liquid_reservoir_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_802
+[2024.07.17-13.23.30:608][350]Cmd: EDIT COPY
+[2024.07.17-13.23.30:878][377]Cmd: EDIT PASTE
+[2024.07.17-13.24.33:918][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.07.17-13.24.33:925][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-13.24.34:012][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.17-13.24.34:363][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.07.17-13.25.13:336][855]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.07.17-13.25.13:339][855]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevelC810AEC34058B07F7591949FEB66E983.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.07.17-13.25.13:415][855]LogFileHelpers: Saving map 'MainLevel' took 39.405
+[2024.07.17-13.25.13:425][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.5 sec (total: 2:36 min)
+[2024.07.17-13.25.13:508][855]LogContentValidation: Display: Starting to validate 1 assets
+[2024.07.17-13.25.13:508][855]LogContentValidation: Enabled validators:
+[2024.07.17-13.25.13:508][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.07.17-13.25.13:508][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.07.17-13.25.13:508][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.07.17-13.25.13:508][855]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.07.17-13.25.13:508][855]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.07.17-13.25.13:533][855]LogAutomationController: Ignoring very large delta of 39.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
