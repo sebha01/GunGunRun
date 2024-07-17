@@ -1133,3 +1133,211 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.07.16-19.44.34:692][195]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
 [2024.07.16-19.44.34:725][195]LogAutomationController: Ignoring very large delta of 35.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2024.07.16-19.44.40:781][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.07.16-20.04.10:785][970]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.07.16-20.04.11:156][970]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [29 Seconds] waiting for h/w. InstanceID=1
+[2024.07.16-20.04.20:687][971]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11212
+[2024.07.16-20.04.25:688][971]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.16-20.04.27:192][971]LogAutomationController: Ignoring very large delta of 42.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.16-20.04.30:689][982]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.16-20.04.35:690][997]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.16-20.04.38:553][  4]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{55eedb6d-562b-43ae-acc0-1ddcdef9cbe0}, Name=Speakers (Razer Barracuda X)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=17461.00
+[2024.07.16-20.04.38:640][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.16-20.04.38:703][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.16-20.04.38:762][  5]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11212
+[2024.07.16-20.04.39:100][  6]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{55eedb6d-562b-43ae-acc0-1ddcdef9cbe0}, Name=Speakers (Razer Barracuda X)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=28.24
+[2024.07.16-20.04.39:101][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.16-20.04.39:103][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.17-12.23.15:471][  7]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [58715 Seconds] waiting for h/w. InstanceID=1
+[2024.07.17-12.23.16:257][  7]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.07.17-12.23.25:462][  7]LogAutomationController: Ignoring very large delta of 58726.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-12.23.37:194][  8]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11212
+[2024.07.17-12.23.42:139][  8]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.17-12.23.47:190][  8]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.17-12.23.49:379][  8]LogAutomationController: Ignoring very large delta of 23.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-12.23.52:188][  9]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.17-12.23.57:191][  9]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.17-12.23.59:027][  9]LogAutomationController: Ignoring very large delta of 9.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-12.23.59:276][  9]LogHttp: Warning: 000008C2A2611500: request failed, libcurl error: 28 (Timeout was reached)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 0 (Too old connection (58728 seconds idle), disconnect it)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 1 (Connection 5 seems to be dead)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 2 (Closing connection)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 5 (Resolving timed out after 30003 milliseconds)
+[2024.07.17-12.23.59:277][  9]LogHttp: Warning: 000008C2A2611500: libcurl info message cache 6 (Closing connection)
+[2024.07.17-12.23.59:313][  9]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE68E5F26-40A4-E4A5-1183-5280F78CA6F4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=55bcdb2d4d809c4e27e516965d7de2e3%7Cb1c49826db8c470781cdc08c509b3bc5%7Cf9689eb8-fccb-4d2f-aec6-899365225c73&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.17-12.24.02:190][ 19]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.07.17-12.24.03:928][ 23]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{55eedb6d-562b-43ae-acc0-1ddcdef9cbe0}, Name=Speakers (Razer Barracuda X)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=26608.73
+[2024.07.17-12.24.04:006][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.17-12.24.06:622][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.17-12.24.06:676][ 23]LogAutomationController: Ignoring very large delta of 3.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-12.24.06:686][ 24]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11212
+[2024.07.17-12.24.07:024][ 25]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{55eedb6d-562b-43ae-acc0-1ddcdef9cbe0}, Name=Speakers (Razer Barracuda X)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=51.98
+[2024.07.17-12.24.07:024][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.07.17-12.24.07:027][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.07.17-12.40.00:532][558]LogAutomationController: Ignoring very large delta of 3.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.17-12.40.15:466][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.40.15:466][880]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.40.15:793][880]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_121.Building_121 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_587
+[2024.07.17-12.40.21:338][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2024.07.17-12.40.21:440][278]LogEditorActor: Deleted 0 Actors (1.356 secs)
+[2024.07.17-12.40.21:492][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.40.21:492][278]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.40.21:492][278]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_121.Building_121 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_589
+[2024.07.17-12.40.24:713][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.07.17-12.40.24:713][575]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.07.17-12.40.24:719][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.40.24:719][575]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.40.25:019][575]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_121.Building_121 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_590
+[2024.07.17-12.40.44:605][396]Cmd: DELETE
+[2024.07.17-12.40.44:620][396]Cmd: ACTOR DELETE
+[2024.07.17-12.40.45:182][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.17-12.40.45:186][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.40.45:188][396]LogEditorActor: Deleted 1 Actors (0.183 secs)
+[2024.07.17-12.41.02:619][740]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.41.02:619][740]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.41.02:619][740]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_121.Building_121 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_591
+[2024.07.17-12.41.05:855][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.41.05:858][ 32]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.07.17-12.41.05:863][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.41.05:863][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_121.Building_121
+[2024.07.17-12.41.05:865][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_121.Building_121 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_592
+[2024.07.17-12.42.00:738][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.07.17-12.42.00:738][ 87]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.07.17-12.42.00:739][ 87]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_7123.Building_7123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_593
+[2024.07.17-12.42.02:071][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.07.17-12.42.02:073][185]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2024.07.17-12.42.02:925][268]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.07.17-12.42.02:925][268]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.07.17-12.42.02:926][268]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_7123.Building_7123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_594
+[2024.07.17-12.42.04:027][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.07.17-12.42.04:028][363]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.07.17-12.42.04:033][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.07.17-12.42.04:033][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_7123.Building_7123
+[2024.07.17-12.42.04:035][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_7123.Building_7123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_595
+[2024.07.17-12.42.39:053][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_212.Building_212
+[2024.07.17-12.42.39:053][649]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_212.Building_212
+[2024.07.17-12.42.39:054][649]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_212.Building_212 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_596
+[2024.07.17-12.42.40:493][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.07.17-12.42.40:494][764]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.07.17-12.42.41:013][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_212.Building_212
+[2024.07.17-12.42.41:013][821]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_212.Building_212
+[2024.07.17-12.42.41:015][821]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_212.Building_212 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_597
+[2024.07.17-12.42.41:459][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.42.41:460][865]LogEditorActor: Deleted 0 Actors (0.004 secs)
+[2024.07.17-12.42.41:465][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_212.Building_212
+[2024.07.17-12.42.41:466][865]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_212.Building_212
+[2024.07.17-12.42.41:467][865]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_212.Building_212 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_598
+[2024.07.17-12.42.42:832][993]Cmd: DELETE
+[2024.07.17-12.42.42:832][993]Cmd: ACTOR DELETE
+[2024.07.17-12.42.42:841][993]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.17-12.42.42:845][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.42.42:847][993]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.07.17-12.42.46:579][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.07.17-12.42.46:579][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.07.17-12.42.46:580][270]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_646
+[2024.07.17-12.42.47:818][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.42.47:820][372]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.07.17-12.42.48:285][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.07.17-12.42.48:285][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.07.17-12.42.48:286][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_678
+[2024.07.17-12.42.49:429][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.42.49:430][543]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.07.17-12.42.49:436][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.07.17-12.42.49:436][543]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_6123.Building_6123
+[2024.07.17-12.42.49:438][543]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_6123.Building_6123 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_679
+[2024.07.17-12.44.01:366][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1312.Building_1312
+[2024.07.17-12.44.01:366][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1312.Building_1312
+[2024.07.17-12.44.01:367][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1312.Building_1312 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_680
+[2024.07.17-12.44.02:893][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.07.17-12.44.02:895][530]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.07.17-12.44.03:473][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1312.Building_1312
+[2024.07.17-12.44.03:473][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1312.Building_1312
+[2024.07.17-12.44.03:474][595]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1312.Building_1312 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_681
+[2024.07.17-12.44.05:984][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.44.05:986][866]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.07.17-12.44.05:991][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1312.Building_1312
+[2024.07.17-12.44.05:991][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Building_1312.Building_1312
+[2024.07.17-12.44.05:992][866]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Building_1312.Building_1312 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_682
+[2024.07.17-12.44.07:223][980]Cmd: DELETE
+[2024.07.17-12.44.07:223][980]Cmd: ACTOR DELETE
+[2024.07.17-12.44.07:233][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.07.17-12.44.07:237][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.44.07:239][980]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.07.17-12.44.31:738][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.07.17-12.44.31:738][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.07.17-12.44.31:739][286]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_683
+[2024.07.17-12.44.34:645][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.44.34:647][542]LogEditorActor: Deleted 0 Actors (0.006 secs)
+[2024.07.17-12.44.34:873][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.07.17-12.44.34:873][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.07.17-12.44.34:874][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_684
+[2024.07.17-12.44.35:562][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.44.35:562][626]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.07.17-12.44.35:568][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.07.17-12.44.35:568][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1
+[2024.07.17-12.44.35:570][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_1.IndustrialHorror_PS_like_Barrel_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_685
+[2024.07.17-12.45.10:754][613]LogDerivedDataCache: C:/Users/sebas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.07.17-12.45.39:417][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.07.17-12.45.39:417][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.07.17-12.45.39:418][218]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_708
+[2024.07.17-12.45.40:346][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.45.40:347][292]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.07.17-12.45.40:351][292]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.07.17-12.45.40:351][292]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3
+[2024.07.17-12.45.40:354][292]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_3.IndustrialHorror_PS_like_Barrel_3 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_727
+[2024.07.17-12.45.46:294][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.07.17-12.45.46:294][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.07.17-12.45.46:295][829]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_731
+[2024.07.17-12.45.47:168][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.07.17-12.45.47:170][896]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.07.17-12.45.47:175][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.07.17-12.45.47:175][896]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2
+[2024.07.17-12.45.47:177][896]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/IndustrialHorror_PS_like_Barrel_2.IndustrialHorror_PS_like_Barrel_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_737
+[2024.07.17-12.46.38:573][666]Cmd: EDIT COPY
+[2024.07.17-12.46.39:075][702]Cmd: EDIT PASTE
+[2024.07.17-12.46.50:070][733]Cmd: EDIT COPY
+[2024.07.17-12.46.50:437][770]Cmd: EDIT PASTE
+[2024.07.17-12.46.57:031][354]Cmd: EDIT COPY
+[2024.07.17-12.46.57:276][380]Cmd: EDIT PASTE
+[2024.07.17-12.47.58:920][960]Cmd: EDIT COPY
+[2024.07.17-12.47.59:460][ 13]Cmd: EDIT PASTE
+[2024.07.17-12.50.22:450][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.07.17-12.50.22:450][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.07.17-12.50.22:451][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Bags_11.Bags_11 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_753
+[2024.07.17-12.50.24:273][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.07.17-12.50.24:275][167]LogEditorActor: Deleted 0 Actors (0.260 secs)
+[2024.07.17-12.50.24:282][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.07.17-12.50.24:282][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_11.Bags_11
+[2024.07.17-12.50.24:284][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Bags_11.Bags_11 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_756
+[2024.07.17-12.51.03:748][761]LogStaticMesh: Display: Building static mesh Bags_21 (Required Memory Estimate: 0.02685 MB)...
+[2024.07.17-12.51.03:781][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_21.Bags_21
+[2024.07.17-12.51.03:781][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_21.Bags_21
+[2024.07.17-12.51.03:783][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Bags_21.Bags_21 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_758
+[2024.07.17-12.51.03:803][761]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Map/Bags_21) ...
+[2024.07.17-12.51.03:851][761]LogStaticMesh: Built static mesh [0.15s] /Game/Assets/Map/Bags_21.Bags_21
+[2024.07.17-12.51.04:118][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.07.17-12.51.04:120][761]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2024.07.17-12.51.04:124][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_21.Bags_21
+[2024.07.17-12.51.04:124][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Map/Bags_21.Bags_21
+[2024.07.17-12.51.04:126][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Map/Bags_21.Bags_21 as actor: StaticMeshActor /Game/FirstPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_759
+[2024.07.17-12.51.27:534][847]Cmd: EDIT COPY
+[2024.07.17-12.51.27:785][874]Cmd: EDIT PASTE
+[2024.07.17-12.51.47:441][619]Cmd: EDIT COPY
+[2024.07.17-12.51.47:693][643]Cmd: EDIT PASTE
+[2024.07.17-12.52.17:589][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.07.17-12.52.17:659][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-12.52.17:848][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainLevel" FILE="E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.17-12.52.18:126][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.07.17-12.53.01:043][221]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainLevel
+[2024.07.17-12.53.01:046][221]LogSavePackage: Moving 'E:/GunGunRun/GunGunRun/Saved/MainLevel93189D53405C12CC778004A07154652D.tmp' to 'E:/GunGunRun/GunGunRun/Content/FirstPerson/Maps/MainLevel.umap'
+[2024.07.17-12.53.01:251][221]LogFileHelpers: Saving map 'MainLevel' took 43.421
+[2024.07.17-12.53.01:259][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.6 sec (total: 1:18 min)
+[2024.07.17-12.53.01:375][221]LogContentValidation: Display: Starting to validate 1 assets
+[2024.07.17-12.53.01:375][221]LogContentValidation: Enabled validators:
+[2024.07.17-12.53.01:375][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.07.17-12.53.01:375][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.07.17-12.53.01:375][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.07.17-12.53.01:382][221]LogContentValidation: Display: Validating asset /Game/FirstPerson/Maps/MainLevel.MainLevel
+[2024.07.17-12.53.01:417][221]AssetCheck: /Game/FirstPerson/Maps/MainLevel Validating asset
+[2024.07.17-12.53.01:443][221]LogAutomationController: Ignoring very large delta of 43.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
